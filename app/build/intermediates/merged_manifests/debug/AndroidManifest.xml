@@ -17,6 +17,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.besafeproject.warning" />
+        <activity android:name="com.example.besafeproject.sensortestright" />
+        <activity android:name="com.example.besafeproject.sensortestleft" />
+        <activity android:name="com.example.besafeproject.signup" />
+        <activity android:name="com.example.besafeproject.login" />
         <activity android:name="com.example.besafeproject.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
