@@ -8,11 +8,13 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.widget.TextView;
 
 public class sensortestright extends AppCompatActivity implements SensorEventListener {
 
     Sensor ms;
     SensorManager msm;
+    TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,27 +30,24 @@ public class sensortestright extends AppCompatActivity implements SensorEventLis
 
         msm.registerListener(this,ms,SensorManager.SENSOR_DELAY_NORMAL);
 
+        textView=findViewById(R.id.t);
+
 //
 
     }
     @Override
     public void onSensorChanged(SensorEvent sensorEvent) {
-        float string = sensorEvent.values[0];
-//        textViewX.setText("X: "+ sensorEvent.values[0]);
+        float stringg = sensorEvent.values[0];
+      textView.setText("X: "+ sensorEvent.values[0]);
 
-        if((string > -9.555)){
-//            AlertDialog.Builder alert = new AlertDialog.Builder(this);
-//            alert.setMessage("goodbye");
-//            alert.show();
+        if(stringg < -9.000){
+//
 
-            Intent p = new Intent(sensortestright.this,warning.class);
-            startActivity(p);
+            Intent k = new Intent(sensortestright.this,warningtwo.class);
+            startActivity(k);
 
 
         }
-
-
-
     }
 
     @Override
