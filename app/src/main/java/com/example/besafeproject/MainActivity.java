@@ -17,7 +17,7 @@ import java.util.jar.Manifest;
 
 import static java.lang.Thread.sleep;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements SensorEventListener {
 
     ImageView splashimage;
     Sensor mysensor;
@@ -28,18 +28,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        splashimage=(ImageView) findViewById(R.id.img);
+        splashimage= findViewById(R.id.img);
 
-//        mysensormaneger = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
-//        if (mysensormaneger.getDefaultSensor(Sensor.TYPE_ACCELEROMETER) != null) {
-//            // success! we have an accelerometer
-//
-//            mysensor = mysensormaneger.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
-//            mysensormaneger.registerListener(this, mysensor, SensorManager.SENSOR_DELAY_NORMAL);
-//        } else {
-//            finish();
-//            System.exit(0);
-//        }
+        mysensormaneger = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
+        if (mysensormaneger.getDefaultSensor(Sensor.TYPE_ACCELEROMETER) != null) {
+            // success! we have an accelerometer
+
+            mysensor = mysensormaneger.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+            mysensormaneger.registerListener(this, mysensor, SensorManager.SENSOR_DELAY_NORMAL);
+        } else {
+            finish();
+            System.exit(0);
+        }
 
 
 
@@ -62,15 +62,15 @@ public class MainActivity extends AppCompatActivity {
         });
 
         myThread.start();
-//    }
-//
-//    @Override
-//    public void onSensorChanged(SensorEvent sensorEvent) {
-//
-//    }
-//
-//    @Override
-//    public void onAccuracyChanged(Sensor sensor, int i) {
+    }
+
+    @Override
+    public void onSensorChanged(SensorEvent sensorEvent) {
+
+    }
+
+    @Override
+    public void onAccuracyChanged(Sensor sensor, int i) {
 
     }
 }

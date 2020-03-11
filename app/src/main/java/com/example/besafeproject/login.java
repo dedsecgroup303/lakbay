@@ -75,7 +75,7 @@ public class login extends AppCompatActivity {
 
                     }
                     if (userValue.equals(gname) && passValue.equals(gpassword)){
-                        Intent j = new Intent(login.this,sensortestleft.class);
+                        Intent j = new Intent(login.this,mainmenu.class);
                         startActivity(j);
 
                     }else{

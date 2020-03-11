@@ -405,6 +405,7 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color blue
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -461,6 +462,7 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color red
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -678,6 +680,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable background
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -702,10 +705,12 @@ drawable googleg_standard_color_18
 drawable gradle
 drawable ic_account_box_black_24dp
 drawable ic_account_circle_black_24dp
+drawable ic_exit_to_app_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_security_black_24dp
 drawable ic_stay_current_portrait_black_24dp
+drawable mapaicon
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -721,6 +726,10 @@ drawable notify_panel_notification_icon_bg
 drawable one
 drawable phone
 drawable phone2
+drawable riddle
+drawable rider
+drawable rotate
+drawable scoutx
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -816,14 +825,13 @@ id listMode
 id list_item
 id login
 id map
+id mapa
 id media_actions
 id message
 id middle
 id multiply
 id name
 id never
-id next
-id nextt
 id none
 id normal
 id notification_background
@@ -875,7 +883,6 @@ id status_bar_latest_event_content
 id submenuarrow
 id submit
 id submit_area
-id t
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -891,6 +898,7 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id travel
 id uniform
 id up
 id useLogo
@@ -900,7 +908,6 @@ id wide
 id withText
 id wrap
 id wrap_content
-id x
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer cancel_button_image_alpha
@@ -937,12 +944,9 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout activity_mainmenu
 layout activity_mapa
-layout activity_sensortestleft
-layout activity_sensortestright
 layout activity_signup
-layout activity_warning
-layout activity_warningtwo
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -967,6 +971,10 @@ mipmap ic_launcher_round
 mipmap icon
 mipmap icon_foreground
 mipmap icon_round
+string Logout
+string RideX
+string Riderinfo
+string Sensortest
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1029,6 +1037,7 @@ string google_maps_key
 string search_menu_title
 string status_bar_notification_info_overflow
 string title_activity_mapa
+string travel
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

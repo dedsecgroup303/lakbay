@@ -5,27 +5,29 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="15"
+8        android:minSdkVersion="22"
 8-->C:\file\besafe\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
 9-->C:\file\besafe\app\src\main\AndroidManifest.xml
-10
-11    <!--
-12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
-13         Google Maps Android API v2, but you must specify either coarse or fine
-14         location permissions for the 'MyLocation' functionality.
-15    -->
-16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->C:\file\besafe\app\src\main\AndroidManifest.xml:10:5-79
-16-->C:\file\besafe\app\src\main\AndroidManifest.xml:10:22-76
-17
-18    <!-- Include required permissions for Google Maps API to run. -->
-19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
-19-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:22-76
-20    <uses-permission android:name="android.permission.INTERNET" />
-20-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
-20-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:22-64
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the 'MyLocation' functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\file\besafe\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\file\besafe\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\file\besafe\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\file\besafe\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\file\besafe\app\src\main\AndroidManifest.xml:11:5-67
+17-->C:\file\besafe\app\src\main\AndroidManifest.xml:11:22-64
+18
+19    <!-- Include required permissions for Google Maps API to run. -->
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:22-76
 21
 22    <uses-feature
 22-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:26:5-28:35
@@ -35,100 +37,102 @@
 24-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
 25
 26    <application
-26-->C:\file\besafe\app\src\main\AndroidManifest.xml:12:5-48:19
+26-->C:\file\besafe\app\src\main\AndroidManifest.xml:13:5-45:19
 27        android:allowBackup="true"
-27-->C:\file\besafe\app\src\main\AndroidManifest.xml:13:9-35
+27-->C:\file\besafe\app\src\main\AndroidManifest.xml:14:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
-30-->C:\file\besafe\app\src\main\AndroidManifest.xml:14:9-43
+30-->C:\file\besafe\app\src\main\AndroidManifest.xml:15:9-43
 31        android:label="@string/app_name"
-31-->C:\file\besafe\app\src\main\AndroidManifest.xml:15:9-41
+31-->C:\file\besafe\app\src\main\AndroidManifest.xml:16:9-41
 32        android:roundIcon="@mipmap/ic_launcher_round"
-32-->C:\file\besafe\app\src\main\AndroidManifest.xml:16:9-54
+32-->C:\file\besafe\app\src\main\AndroidManifest.xml:17:9-54
 33        android:supportsRtl="true"
-33-->C:\file\besafe\app\src\main\AndroidManifest.xml:17:9-35
+33-->C:\file\besafe\app\src\main\AndroidManifest.xml:18:9-35
 34        android:testOnly="true"
 35        android:theme="@style/AppTheme" >
-35-->C:\file\besafe\app\src\main\AndroidManifest.xml:18:9-40
-36
-37        <!--
-38             The API key for Google Maps-based APIs is defined as a string resource.
-39             (See the file "res/values/google_maps_api.xml").
-40             Note that the API key is linked to the encryption key used to sign the APK.
-41             You need a different API key for each encryption key, including the release key that is used to
-42             sign the APK for publishing.
-43             You can define the keys for the debug and release targets in src/debug/ and src/release/.
-44        -->
-45        <meta-data
-45-->C:\file\besafe\app\src\main\AndroidManifest.xml:28:9-30:55
-46            android:name="com.google.android.geo.API_KEY"
-46-->C:\file\besafe\app\src\main\AndroidManifest.xml:29:13-58
-47            android:value="@string/google_maps_key" />
-47-->C:\file\besafe\app\src\main\AndroidManifest.xml:30:13-52
-48
-49        <activity
-49-->C:\file\besafe\app\src\main\AndroidManifest.xml:32:9-34:68
-50            android:name="com.example.besafeproject.Mapa"
-50-->C:\file\besafe\app\src\main\AndroidManifest.xml:33:13-33
-51            android:label="@string/title_activity_mapa" />
-51-->C:\file\besafe\app\src\main\AndroidManifest.xml:34:13-56
-52        <activity android:name="com.example.besafeproject.warningtwo" />
-52-->C:\file\besafe\app\src\main\AndroidManifest.xml:35:9-48
-52-->C:\file\besafe\app\src\main\AndroidManifest.xml:35:19-45
-53        <activity android:name="com.example.besafeproject.warning" />
-53-->C:\file\besafe\app\src\main\AndroidManifest.xml:36:9-45
-53-->C:\file\besafe\app\src\main\AndroidManifest.xml:36:19-42
-54        <activity android:name="com.example.besafeproject.sensortestright" />
-54-->C:\file\besafe\app\src\main\AndroidManifest.xml:37:9-53
-54-->C:\file\besafe\app\src\main\AndroidManifest.xml:37:19-50
-55        <activity android:name="com.example.besafeproject.sensortestleft" />
-55-->C:\file\besafe\app\src\main\AndroidManifest.xml:38:9-52
-55-->C:\file\besafe\app\src\main\AndroidManifest.xml:38:19-49
-56        <activity android:name="com.example.besafeproject.signup" />
-56-->C:\file\besafe\app\src\main\AndroidManifest.xml:39:9-44
-56-->C:\file\besafe\app\src\main\AndroidManifest.xml:39:19-41
-57        <activity android:name="com.example.besafeproject.login" />
-57-->C:\file\besafe\app\src\main\AndroidManifest.xml:40:9-43
-57-->C:\file\besafe\app\src\main\AndroidManifest.xml:40:19-40
-58        <activity android:name="com.example.besafeproject.MainActivity" >
-58-->C:\file\besafe\app\src\main\AndroidManifest.xml:41:9-47:20
-58-->C:\file\besafe\app\src\main\AndroidManifest.xml:41:19-47
-59            <intent-filter>
-59-->C:\file\besafe\app\src\main\AndroidManifest.xml:42:13-46:29
-60                <action android:name="android.intent.action.MAIN" />
-60-->C:\file\besafe\app\src\main\AndroidManifest.xml:43:17-69
-60-->C:\file\besafe\app\src\main\AndroidManifest.xml:43:25-66
-61
-62                <category android:name="android.intent.category.LAUNCHER" />
-62-->C:\file\besafe\app\src\main\AndroidManifest.xml:45:17-77
-62-->C:\file\besafe\app\src\main\AndroidManifest.xml:45:27-74
-63            </intent-filter>
-64        </activity>
-65        <!-- Needs to be explicitly declared on P+ -->
-66        <uses-library
-66-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
-67            android:name="org.apache.http.legacy"
-67-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
-68            android:required="false" />
-68-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
-69
-70        <activity
-70-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
-71            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-71-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
-72            android:exported="false"
-72-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
-73            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-73-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
-74
-75        <meta-data
-75-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
-76            android:name="com.google.android.gms.version"
-76-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
-77            android:value="@integer/google_play_services_version" />
-77-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
-78    </application>
-79
-80</manifest>
+35-->C:\file\besafe\app\src\main\AndroidManifest.xml:19:9-40
+36        <activity
+36-->C:\file\besafe\app\src\main\AndroidManifest.xml:20:9-98
+37            android:name="com.example.besafeproject.mainmenu"
+37-->C:\file\besafe\app\src\main\AndroidManifest.xml:20:19-43
+38            android:theme="@style/Theme.AppCompat.NoActionBar" />
+38-->C:\file\besafe\app\src\main\AndroidManifest.xml:20:44-94
+39        <!--
+40             The API key for Google Maps-based APIs is defined as a string resource.
+41             (See the file "res/values/google_maps_api.xml").
+42             Note that the API key is linked to the encryption key used to sign the APK.
+43             You need a different API key for each encryption key, including the release key that is used to
+44             sign the APK for publishing.
+45             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+46        -->
+47        <meta-data
+47-->C:\file\besafe\app\src\main\AndroidManifest.xml:29:9-31:55
+48            android:name="com.google.android.geo.API_KEY"
+48-->C:\file\besafe\app\src\main\AndroidManifest.xml:30:13-58
+49            android:value="@string/google_maps_key" />
+49-->C:\file\besafe\app\src\main\AndroidManifest.xml:31:13-52
+50
+51        <activity
+51-->C:\file\besafe\app\src\main\AndroidManifest.xml:33:9-35:59
+52            android:name="com.example.besafeproject.Mapa"
+52-->C:\file\besafe\app\src\main\AndroidManifest.xml:34:13-33
+53            android:label="@string/title_activity_mapa" />
+53-->C:\file\besafe\app\src\main\AndroidManifest.xml:35:13-56
+54        <activity
+54-->C:\file\besafe\app\src\main\AndroidManifest.xml:36:9-95
+55            android:name="com.example.besafeproject.signup"
+55-->C:\file\besafe\app\src\main\AndroidManifest.xml:36:19-41
+56            android:theme="@style/Theme.AppCompat.NoActionBar" />
+56-->C:\file\besafe\app\src\main\AndroidManifest.xml:36:42-92
+57        <activity
+57-->C:\file\besafe\app\src\main\AndroidManifest.xml:37:9-95
+58            android:name="com.example.besafeproject.login"
+58-->C:\file\besafe\app\src\main\AndroidManifest.xml:37:19-40
+59            android:theme="@style/Theme.AppCompat.NoActionBar" />
+59-->C:\file\besafe\app\src\main\AndroidManifest.xml:37:41-91
+60        <activity
+60-->C:\file\besafe\app\src\main\AndroidManifest.xml:38:9-44:20
+61            android:name="com.example.besafeproject.MainActivity"
+61-->C:\file\besafe\app\src\main\AndroidManifest.xml:38:19-47
+62            android:theme="@style/Theme.AppCompat.NoActionBar" >
+62-->C:\file\besafe\app\src\main\AndroidManifest.xml:38:48-98
+63            <intent-filter>
+63-->C:\file\besafe\app\src\main\AndroidManifest.xml:39:13-43:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\file\besafe\app\src\main\AndroidManifest.xml:40:17-69
+64-->C:\file\besafe\app\src\main\AndroidManifest.xml:40:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\file\besafe\app\src\main\AndroidManifest.xml:42:17-77
+66-->C:\file\besafe\app\src\main\AndroidManifest.xml:42:27-74
+67            </intent-filter>
+68        </activity>
+69        <!-- Needs to be explicitly declared on P+ -->
+70        <uses-library
+70-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
+71            android:name="org.apache.http.legacy"
+71-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
+72            android:required="false" />
+72-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+78
+79        <meta-data
+79-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+80            android:name="com.google.android.gms.version"
+80-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+81            android:value="@integer/google_play_services_version" />
+81-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+82    </application>
+83
+84</manifest>

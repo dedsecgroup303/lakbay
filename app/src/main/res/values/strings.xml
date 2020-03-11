@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">besafeproject</string>
     <string name="title_activity_mapa">Map</string>
+    <string name="travel">Travel</string>
+    <string name="RideX">Ride X </string>
+    <string name="Sensortest">Sensor Test</string>
+    <string name="Logout">Logout</string>
+    <string name="Riderinfo">Rider Info</string>
 </resources>

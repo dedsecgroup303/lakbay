@@ -1,13 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\906744c4ddcbc384c5a8d2d69414f8fa\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\173729147991fd13723193746c83ae16\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\579d6225c14ef5dc52d859b502a46d06\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\944d5149dd54b1d1545c1eefcd236e41\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\47fc3950c814b04977735368112c37af\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -37,35 +39,49 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ACER-USER\.gr
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
 		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml
 		INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-50:12
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:10:5-79
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:10:22-76
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:11:22-64
 application
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:12:5-48:19
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:13:5-45:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\173729147991fd13723193746c83ae16\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\173729147991fd13723193746c83ae16\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\579d6225c14ef5dc52d859b502a46d06\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\579d6225c14ef5dc52d859b502a46d06\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\944d5149dd54b1d1545c1eefcd236e41\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\944d5149dd54b1d1545c1eefcd236e41\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
@@ -77,67 +93,63 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\AC
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:16:9-41
 	android:roundIcon
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:17:9-54
 	android:icon
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.besafeproject.mainmenu
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:20:9-98
+	android:theme
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:20:44-94
+	android:name
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:20:19-43
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:28:9-30:55
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:29:9-31:55
 	android:value
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:30:13-52
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:29:13-58
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:30:13-58
 activity#com.example.besafeproject.Mapa
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:32:9-34:68
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:33:9-35:59
 	android:label
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:34:13-56
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:35:13-56
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:33:13-33
-activity#com.example.besafeproject.warningtwo
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:35:9-48
-	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:35:19-45
-activity#com.example.besafeproject.warning
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:36:9-45
-	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:36:19-42
-activity#com.example.besafeproject.sensortestright
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:37:9-53
-	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:37:19-50
-activity#com.example.besafeproject.sensortestleft
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:38:9-52
-	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:38:19-49
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:34:13-33
 activity#com.example.besafeproject.signup
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:39:9-44
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:36:9-95
+	android:theme
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:36:42-92
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:39:19-41
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:36:19-41
 activity#com.example.besafeproject.login
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:40:9-43
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:37:9-95
+	android:theme
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:37:41-91
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:40:19-40
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:37:19-40
 activity#com.example.besafeproject.MainActivity
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:41:9-47:20
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:theme
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:38:48-98
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:41:19-47
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:38:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:42:13-46:29
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:43:17-69
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:43:25-66
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:45:17-77
+ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:45:27-74
+		ADDED from C:\file\besafe\app\src\main\AndroidManifest.xml:42:27-74
 uses-sdk
 INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\file\besafe\app\src\main\AndroidManifest.xml
@@ -148,8 +160,12 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ACER-USE
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\173729147991fd13723193746c83ae16\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\173729147991fd13723193746c83ae16\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\579d6225c14ef5dc52d859b502a46d06\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\579d6225c14ef5dc52d859b502a46d06\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\944d5149dd54b1d1545c1eefcd236e41\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\944d5149dd54b1d1545c1eefcd236e41\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
@@ -222,10 +238,6 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:23:22-76
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:22-64
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
