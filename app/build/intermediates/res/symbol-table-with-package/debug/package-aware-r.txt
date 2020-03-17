@@ -156,7 +156,9 @@ attr fontProviderQuery
 attr fontStyle
 attr fontVariationSettings
 attr fontWeight
+attr freezesAnimation
 attr gapBetweenBars
+attr gifSource
 attr goIcon
 attr height
 attr hideOnContentScroll
@@ -172,6 +174,7 @@ attr imageButtonStyle
 attr indeterminateProgressStyle
 attr initialActivityCount
 attr isLightTheme
+attr isOpaque
 attr itemPadding
 attr keylines
 attr lastBaselineToBottomHeight
@@ -251,6 +254,7 @@ attr listPreferredItemPaddingRight
 attr liteMode
 attr logo
 attr logoDescription
+attr loopCount
 attr mapType
 attr maxButtonHeight
 attr measureWithLargestChild
@@ -726,8 +730,10 @@ drawable notify_panel_notification_icon_bg
 drawable one
 drawable phone
 drawable phone2
+drawable phonne
 drawable riddle
 drawable rider
+drawable riderinfobackground
 drawable rotate
 drawable scoutx
 drawable tooltip_frame_dark
@@ -735,6 +741,7 @@ drawable tooltip_frame_light
 id ALT
 id CTRL
 id FUNCTION
+id Logout
 id META
 id SHIFT
 id SYM
@@ -759,8 +766,10 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id address
 id adjust_height
 id adjust_width
+id age
 id alertTitle
 id all
 id always
@@ -770,6 +779,8 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnriderpicture
+id btnsubmit
 id buttonPanel
 id cancel_action
 id center
@@ -781,6 +792,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id contactnumber
 id content
 id contentPanel
 id custom
@@ -814,6 +826,7 @@ id icon_only
 id ifRoom
 id image
 id img
+id imgrider
 id info
 id invisible
 id italic
@@ -825,10 +838,11 @@ id listMode
 id list_item
 id login
 id map
-id mapa
 id media_actions
 id message
 id middle
+id motorcyclebrandy
+id motorcycleplate
 id multiply
 id name
 id never
@@ -846,6 +860,7 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id riderinfor
 id right
 id right_icon
 id right_side
@@ -865,6 +880,7 @@ id search_plate
 id search_src_text
 id search_voice_btn
 id select_dialog_listview
+id sensor
 id shortcut
 id showCustom
 id showHome
@@ -946,6 +962,8 @@ layout activity_login
 layout activity_main
 layout activity_mainmenu
 layout activity_mapa
+layout activity_riderinfo
+layout activity_sensortest
 layout activity_signup
 layout notification_action
 layout notification_action_tombstone
@@ -1416,6 +1434,8 @@ styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_a
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
 styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchStrategy fontProviderFetchTimeout fontProviderPackage fontProviderQuery
 styleable FontFamilyFont android_font android_fontWeight android_fontStyle android_ttcIndex android_fontVariationSettings font fontStyle fontVariationSettings fontWeight ttcIndex
+styleable GifTextureView gifSource isOpaque
+styleable GifView freezesAnimation loopCount
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
 styleable LinearConstraintLayout android_orientation
