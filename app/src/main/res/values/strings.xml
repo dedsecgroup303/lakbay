@@ -6,4 +6,13 @@
     <string name="Sensortest">Sensor Test</string>
     <string name="Logout">Logout</string>
     <string name="Riderinfo">Rider Info</string>
+    <string name="title_activity_food_list">food_list</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="new_memory_title_hint">Add Title</string>
+    <string name="new_memory_btn_cancel">Cancel</string>
+    <string name="new_memory_btn_save">Save</string>
+    <string name="activity_main_empty_view_text">Create your first photo memory with the button below.</string>
+    <string name="new_memory_btn_gallery">Add a photo from gallery</string>
+    <string name="new_memory_btn_camera">Add a photo from camera</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

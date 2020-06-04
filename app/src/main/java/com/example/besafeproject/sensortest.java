@@ -42,7 +42,7 @@ public class sensortest extends AppCompatActivity implements SensorEventListener
 
         double x = sensorEvent.values[0];
 
-        double vector = Math.sqrt(x*x );
+        double vector = Math.sqrt(x*x);
 
         if(vector >= 10) {
             Toast.makeText(this, "your sensor is fine", Toast.LENGTH_SHORT).show();

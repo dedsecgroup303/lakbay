@@ -6,28 +6,46 @@
     android:layout_height="match_parent"
     tools:context=".signup"
     android:orientation="vertical"
-    android:background="@drawable/gradle">
+    android:background="@drawable/background">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:orientation="horizontal">
 
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:src="@drawable/one"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="Signup"
             android:gravity="center"
-            android:textSize="50sp"
-            android:textColor="@color/colorPrimaryDark"/>
+            android:textSize="30sp"
+            android:textColor="@color/white"/>
 
 
     </LinearLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:textSize="30sp"
+        android:id="@+id/usernamee"
+        android:gravity="center"
+        android:textColorHint="@color/white"
+        android:drawableLeft="@drawable/ic_account_circle_black_24dp"/>
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:textSize="30sp"
+        android:id="@+id/passwords"
+        android:gravity="center"
+        android:textColorHint="@color/white"
+        android:drawableLeft="@drawable/ic_security_black_24dp"/>
 
     <EditText
         android:id="@+id/name"
@@ -41,23 +59,17 @@
         android:textColorHint="@color/white"
         android:drawableLeft="@drawable/ic_account_box_black_24dp"/>
     <EditText
+        android:id="@+id/age"
+        style="@style/Widget.AppCompat.EditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Username"
-        android:textSize="30sp"
-        android:id="@+id/usernamee"
         android:gravity="center"
-        android:textColorHint="@color/white"
-        android:drawableLeft="@drawable/ic_account_circle_black_24dp"/>
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Password"
+        android:hint="Age"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textSize="30sp"
-        android:id="@+id/passwords"
-        android:gravity="center"
         android:textColorHint="@color/white"
-        android:drawableLeft="@drawable/ic_security_black_24dp"/>
+        android:drawableLeft="@drawable/ic_account_box_black_24dp"/>
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -76,12 +88,24 @@
         android:textSize="30sp"
         android:textColorHint="@color/white"
         android:drawableLeft="@drawable/ic_stay_current_portrait_black_24dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/address"
+        android:hint="Address"
+        android:textSize="30sp"
+        android:textColorHint="@color/white"
+        android:drawableLeft="@drawable/ic_home_black_24dp"/>
     <Button
         android:layout_width="200dp"
         android:layout_height="50dp"
         android:layout_marginTop="20dp"
         android:layout_gravity="center"
         android:text="submit"
+        android:background="@color/blue"
+        android:textColor="@color/white"
         android:id="@+id/submit"/>
 
 </LinearLayout>

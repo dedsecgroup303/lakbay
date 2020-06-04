@@ -45,13 +45,24 @@
                                 <PersistentState>
                                   <option name="children">
                                     <map>
+                                      <entry key="foregroundClipArt">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="color" value="000000" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="foregroundImage">
                                         <value>
                                           <PersistentState>
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="scalingPercent" value="77" />
+                                                <entry key="scalingPercent" value="62" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -62,7 +73,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="foregroundImage" value="C:\Users\ACER-USER\Desktop\mapaicon.png" />
+                                      <entry key="backgroundColor" value="f1f1ff" />
+                                      <entry key="foregroundImage" value="C:\file\besafe\app\src\main\res\drawable\one.png" />
                                       <entry key="outputName" value="icon" />
                                     </map>
                                   </option>
@@ -136,7 +148,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_exit_to_app_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_home_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -147,7 +159,7 @@
                         <option name="values">
                           <map>
                             <entry key="color" value="fefff9" />
-                            <entry key="outputName" value="ic_exit_to_app_black_24dp" />
+                            <entry key="outputName" value="ic_home_black_24dp" />
                             <entry key="sourceFile" value="C:\Users\ACER-USER" />
                           </map>
                         </option>

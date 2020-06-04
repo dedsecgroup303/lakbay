@@ -52,9 +52,23 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:gravity="center">
 
-            <EditText
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Name"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="30sp" />
+
+            <TextView
                 android:id="@+id/name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -63,8 +77,22 @@
                 android:textColor="@color/white"
                 android:textColorHint="@color/white"
                 android:textSize="30sp" />
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
 
-            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Age"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="30sp" />
+
+
+            <TextView
                 android:id="@+id/age"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -73,8 +101,21 @@
                 android:textColor="@color/white"
                 android:textColorHint="@color/white"
                 android:textSize="30sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
 
-            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Address"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="30sp" />
+
+            <TextView
                 android:id="@+id/address"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -83,8 +124,41 @@
                 android:textColor="@color/white"
                 android:textColorHint="@color/white"
                 android:textSize="30sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
 
-            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Parent name"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/parentname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Parent Name"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="30sp" />
+
+        </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Parents Contact Numeber"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="30sp" />
+            <TextView
                 android:id="@+id/contactnumber"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -94,84 +168,9 @@
                 android:textColorHint="@color/white"
                 android:textSize="30sp" />
 
-            <EditText
-                android:id="@+id/motorcyclebrandy"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="Motorcycle Brand"
-                android:textAlignment="center"
-                android:textColor="@color/white"
-                android:textColorHint="@color/white"
-                android:textSize="30sp" />
-
-            <EditText
-                android:id="@+id/motorcycleplate"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="Motorcycle Platenumber"
-                android:textAlignment="center"
-                android:textColor="@color/white"
-                android:textColorHint="@color/white"
-                android:textSize="30sp" />
-
-
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:layout_marginTop="-50dp">
-
-                <ImageView
-                    android:id="@+id/imgrider"
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
-                    android:backgroundTint="@color/white"
-                    android:src="@drawable/rider"
-                    android:layout_marginTop="40dp"/>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="vertical"
-                    android:layout_marginTop="35dp">
-
-                    <Button
-
-                        android:id="@+id/btnriderpicture"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:fontFamily="sans-serif-black"
-                        android:gravity="center"
-                        android:text="upload Motorcycle picture"
-                        android:textColor="@color/black"
-                        android:textSize="30sp" />
-
-
-
-                </LinearLayout>
-
-
-
-            </LinearLayout>
-
-
-            <Button
-                android:id="@+id/btnsubmit"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:layout_gravity="right" />
-
-
-
 
 
         </LinearLayout>
-
-
-
-
-
-
     </ScrollView>
 
 

@@ -48,26 +48,27 @@
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:orientation="horizontal"
-      >
+       android:gravity="center">
 
        <Button
            android:id="@+id/riderinfor"
            style="@style/Widget.AppCompat.Button"
-           android:layout_width="175dp"
-           android:layout_height="175dp"
-           android:layout_marginLeft="3dp"
+           android:layout_width="110dp"
+           android:layout_height="110dp"
+           android:layout_marginRight="40dp"
            android:background="@drawable/rider"
            android:backgroundTint="@color/blue"
            android:text="@string/Riderinfo"
            android:textStyle="bold" />
 
        <Button
-           android:layout_width="175dp"
-           android:layout_height="175dp"
+           android:layout_width="100dp"
+           android:layout_height="100dp"
            android:layout_marginLeft="5dp"
            android:text="@string/RideX"
            android:background="@drawable/scoutx"
-           android:textStyle="bold"/>
+           android:textStyle="bold"
+           android:id="@+id/RX"/>
 
 
    </LinearLayout>
@@ -75,21 +76,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        >
+        android:gravity="center">
 
         <Button
-            android:layout_width="175dp"
-            android:layout_height="175dp"
-            android:layout_marginLeft="3dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginRight="40dp"
             android:text="@string/Sensortest"
             android:background="@drawable/rotate"
             android:textStyle="bold"
             android:id="@+id/sensor"/>
 
         <Button
-            android:layout_width="175dp"
-            android:layout_height="175dp"
-            android:layout_marginLeft="5dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:text="@string/Logout"
             android:background="@drawable/ic_exit_to_app_black_24dp"
             android:textStyle="bold"
@@ -106,8 +106,7 @@
 
         <Button
             android:layout_width="175dp"
-            android:layout_height="175dp"
-            android:layout_marginLeft="3dp"
+            android:layout_height="100dp"
             android:text="@string/travel"
             android:id="@+id/travel"
             android:background="@drawable/mapaicon"

@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class mainmenu extends AppCompatActivity {
-    Button riderinfo, logout, travell, sensortest;
+    Button riderinfo, logout, travell, sensortest,ridex;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +20,7 @@ public class mainmenu extends AppCompatActivity {
         logout = findViewById(R.id.Logout);
         travell = findViewById(R.id.travel);
         sensortest = findViewById(R.id.sensor);
+        ridex = findViewById(R.id.RX);
 
 
         riderinfo.setOnClickListener(new View.OnClickListener() {
@@ -54,6 +55,15 @@ public class mainmenu extends AppCompatActivity {
                 startActivity(sensor);
             }
         });
+
+        ridex.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent help = new Intent(mainmenu.this,MainActivity.class);
+                startActivity(help);
+            }
+        });
+
 
 
 
