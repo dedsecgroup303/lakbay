@@ -50,7 +50,7 @@ public class splashscreen extends AppCompatActivity implements SensorEventListen
                 try{
                     sleep(3000);
 
-                    Intent intent = new Intent(splashscreen.this,login.class);
+                    Intent intent = new Intent(splashscreen.this,mainmenu.class);
                     startActivity(intent);
                 }
                 catch (InterruptedException e){

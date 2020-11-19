@@ -1,56 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraints"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp"
-    android:orientation="vertical"
-    android:background="@drawable/background">
-    
+    android:background="@drawable/google">
+
+
     <ImageView
         android:id="@+id/new_memory_selected_image"
-        android:src="@drawable/placeholder"
-        android:layout_width="match_parent"
-        android:layout_height="150dp" />
+        android:layout_width="296dp"
+        android:layout_height="194dp"
+        android:src="@drawable/camear"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.53"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.106" />
 
     <EditText
         android:id="@+id/new_memory_title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/new_memory_title_hint"/>
+        android:textSize="70px"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_width="299dp"
+        android:layout_height="58dp"
+        android:hint="@string/new_memory_title_hint"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.517"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.39" />
 
     <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/plupload"
         android:onClick="openGallery"
         android:text="@string/new_memory_btn_gallery"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.594" />
 
     <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/plcamera"
         android:onClick="openCamera"
         android:text="@string/new_memory_btn_camera"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
 
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        />
 
-        <Button
-            android:id="@+id/new_memory_cancel"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:onClick="cancel"
-            android:text="@string/new_memory_btn_cancel"
-            android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/new_memory_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rests"
+        android:onClick="cancel"
+        android:text="@string/new_memory_btn_cancel"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.205"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.679" />
 
-        <Button
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:onClick="save"
-            android:text="@string/new_memory_btn_save"
-            android:id="@+id/saves"/>
+    <Button
+        android:id="@+id/saves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rests"
+        android:onClick="save"
+        android:text="@string/new_memory_btn_save"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.859"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.679" />
 
-    </LinearLayout>
+    <Button
+        android:layout_width="129dp"
+        android:layout_height="55dp"
+        android:background="@drawable/mainmanus"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.989"
+        android:text="Main Menu"/>
 
-</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

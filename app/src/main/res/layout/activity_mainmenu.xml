@@ -1,118 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".mainmenu"
-    android:orientation="vertical"
-    android:background="@drawable/gradle">
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:background="@drawable/background">
-
-        <ImageView
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-            android:src="@drawable/one"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:layout_marginTop="35dp">
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="BeSafe"
-                android:gravity="center"
-                android:textSize="40sp"
-                android:fontFamily="sans-serif-black"
-                android:textStyle="bold"
-                android:textColor="@color/colorPrimary"
-                android:layout_marginTop="20sp"/>
+    android:background="@drawable/maine"
+    android:scaleX="1.1"
+    android:scaleY="1.1">
 
 
+<!--    <Button-->
+<!--        android:id="@+id/riderinfor"-->
+<!--        style="@style/Widget.AppCompat.Button"-->
+<!--        android:layout_width="110dp"-->
+<!--        android:layout_height="110dp"-->
+<!--        android:background="@drawable/rider"-->
+<!--        android:backgroundTint="@color/blue"-->
+<!--        android:text="@string/Riderinfo"-->
+<!--        android:textStyle="bold"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.71"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.481" />-->
 
-        </LinearLayout>
+    <Button
+        android:id="@+id/RX"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:background="@drawable/camear"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.19"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.259" />
 
+    <Button
+        android:id="@+id/sensor"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:background="@drawable/compass"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.923" />
 
+    <Button
+        android:id="@+id/Logout"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:background="@drawable/todo"
+        android:text="@string/Logout"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.19"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.711" />
 
-    </LinearLayout>
-
-   <LinearLayout
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:orientation="horizontal"
-       android:gravity="center">
-
-       <Button
-           android:id="@+id/riderinfor"
-           style="@style/Widget.AppCompat.Button"
-           android:layout_width="110dp"
-           android:layout_height="110dp"
-           android:layout_marginRight="40dp"
-           android:background="@drawable/rider"
-           android:backgroundTint="@color/blue"
-           android:text="@string/Riderinfo"
-           android:textStyle="bold" />
-
-       <Button
-           android:layout_width="100dp"
-           android:layout_height="100dp"
-           android:layout_marginLeft="5dp"
-           android:text="@string/RideX"
-           android:background="@drawable/scoutx"
-           android:textStyle="bold"
-           android:id="@+id/RX"/>
-
-
-   </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center">
-
-        <Button
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:layout_marginRight="40dp"
-            android:text="@string/Sensortest"
-            android:background="@drawable/rotate"
-            android:textStyle="bold"
-            android:id="@+id/sensor"/>
-
-        <Button
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:text="@string/Logout"
-            android:background="@drawable/ic_exit_to_app_black_24dp"
-            android:textStyle="bold"
-            android:id="@+id/Logout"/>
-
-
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_gravity="center"
-        android:background="@drawable/riddle">
-
-        <Button
-            android:layout_width="175dp"
-            android:layout_height="100dp"
-            android:text="@string/travel"
-            android:id="@+id/travel"
-            android:background="@drawable/mapaicon"
-            android:textStyle="bold"/>
+    <Button
+        android:id="@+id/travel"
+        android:layout_width="175dp"
+        android:layout_height="100dp"
+        android:background="@drawable/mapaa"
+        android:text="@string/travel"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.48" />
 
 
-    </LinearLayout>
-
-</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">besafeproject</string>
+    <string name="app_name">LAKBAY</string>
     <string name="title_activity_mapa">Map</string>
     <string name="travel">Travel</string>
     <string name="RideX">Ride X </string>
@@ -15,4 +15,18 @@
     <string name="new_memory_btn_gallery">Add a photo from gallery</string>
     <string name="new_memory_btn_camera">Add a photo from camera</string>
     <string name="title_activity_maps">Map</string>
+    <string name="new_task">New Task</string>
+    <string name="what_are_you_planning">What are you planning?</string>
+    <string name="_29_05_2020">29/05/2020</string>
+    <string name="compass_dial" translatable="false">Compass Dial</string>
+    <string name="compass_hands" translatable="false">Compass Hands</string>
+
+    <string name="sotw_north">N</string>
+    <string name="sotw_east">E</string>
+    <string name="sotw_south">S</string>
+    <string name="sotw_west">W</string>
+    <string name="sotw_northeast">NE</string>
+    <string name="sotw_northwest">NW</string>
+    <string name="sotw_southeast">SE</string>
+    <string name="sotw_southwest">SW</string>
 </resources>
