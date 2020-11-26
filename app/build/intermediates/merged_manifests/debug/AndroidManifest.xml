@@ -7,6 +7,7 @@
     <uses-sdk
         android:minSdkVersion="22"
         android:targetSdkVersion="29" />
+
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -32,11 +33,11 @@
         android:debuggable="true"
         android:icon="@mipmap/icon_foreground"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/logoy"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.besafeproject.MainActivity2" />
+
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -52,6 +53,9 @@
         <activity
             android:name="com.example.besafeproject.MapsActivity"
             android:label="@string/title_activity_maps" />
+        <activity
+            android:name="com.example.besafeproject.MainActivity2"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.besafeproject.MainActivity" />
         <activity android:name="com.example.besafeproject.NewMemoryActivity" />
         <activity
