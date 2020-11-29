@@ -69,7 +69,7 @@
     <property name="ToolWindowLogcat.ShowToolbar" value="false" />
     <property name="android.sdk.path" value="C:/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/all thesis file/71AccelerometerCompassApp/app/src/main/java/boss/yhb/com/a71accelerometercompassapp/Compass.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />

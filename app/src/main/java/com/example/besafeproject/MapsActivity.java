@@ -7,8 +7,14 @@ import androidx.fragment.app.FragmentActivity;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
+import android.location.Address;
+import android.location.Geocoder;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.Toast;
 
+import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
@@ -16,10 +22,16 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+import java.io.IOException;
+import java.util.List;
+
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private static final int REQUEST_LOCATION_PERMISSION = 1 ;
     private GoogleMap mMap;
+    double lat;
+    double lng;
+
 
 
     @Override
@@ -35,7 +47,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-
+        gotolocationZoom();
         enableMyLocation();
 
     }
@@ -65,5 +77,27 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     break;
                 }
         }
+    }
+
+    public void geolocate(View view) throws IOException {
+        EditText et = findViewById(R.id.ed);
+        String location = et.getText().toString();
+
+        Geocoder gc = new Geocoder(this);
+        List<Address> list = gc.getFromLocationName(location, 1);
+        Address address = list.get(0);
+        String locality = address.getLocality();
+
+        Toast.makeText(this, locality, Toast.LENGTH_LONG).show();
+
+        lat = address.getLatitude();
+        lng = address.getLongitude();
+        gotolocationZoom();
+    }
+
+    private void gotolocationZoom() {
+        LatLng ll = new LatLng(lat,lng);
+        CameraUpdate update = CameraUpdateFactory.newLatLngZoom(ll,15);
+        mMap.moveCamera(update);
     }
 }
