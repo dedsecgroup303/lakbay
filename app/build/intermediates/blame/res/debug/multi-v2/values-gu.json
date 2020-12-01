@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\file\\besafe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "outputFile": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\values-gu\\values.xml",

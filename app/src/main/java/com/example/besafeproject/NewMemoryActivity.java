@@ -25,15 +25,25 @@ public class NewMemoryActivity extends AppCompatActivity {
     private ImageView selectedImageView;
     private EditText titleEditText;
     Button save;
+    Button MM;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.new_memory_activity);
         save = findViewById(R.id.saves);
-
+        MM = findViewById(R.id.MM);
         this.selectedImageView = (ImageView) findViewById(R.id.new_memory_selected_image);
         this.titleEditText = (EditText) findViewById(R.id.new_memory_title);
+
+        MM.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent r = new Intent(NewMemoryActivity.this, mainmenu.class);
+                startActivity(r);
+            }
+        });
+
 
     }
 
@@ -88,4 +98,5 @@ public class NewMemoryActivity extends AppCompatActivity {
             selectedImageView.setImageBitmap(imageBitmap);
         }
     }
+
 }

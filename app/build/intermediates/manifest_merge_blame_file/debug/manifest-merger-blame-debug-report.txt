@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->C:\file\besafe\app\src\main\AndroidManifest.xml
+8-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\file\besafe\app\src\main\AndroidManifest.xml
+9-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
 10
 11    <!--
 12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -16,23 +16,23 @@
 14         location permissions for the "MyLocation" functionality.
 15    -->
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->C:\file\besafe\app\src\main\AndroidManifest.xml:10:5-79
-16-->C:\file\besafe\app\src\main\AndroidManifest.xml:10:22-76
+16-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:10:5-79
+16-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:10:22-76
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-17-->C:\file\besafe\app\src\main\AndroidManifest.xml:11:5-81
-17-->C:\file\besafe\app\src\main\AndroidManifest.xml:11:22-78
+17-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:11:5-81
+17-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:11:22-78
 18    <uses-permission android:name="android.permission.INTERNET" />
-18-->C:\file\besafe\app\src\main\AndroidManifest.xml:12:5-67
-18-->C:\file\besafe\app\src\main\AndroidManifest.xml:12:22-64
+18-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:12:5-67
+18-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:12:22-64
 19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-19-->C:\file\besafe\app\src\main\AndroidManifest.xml:13:5-80
-19-->C:\file\besafe\app\src\main\AndroidManifest.xml:13:22-77
+19-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:13:5-80
+19-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:13:22-77
 20    <uses-permission android:name="android.permission.CAMERA" />
-20-->C:\file\besafe\app\src\main\AndroidManifest.xml:14:5-65
-20-->C:\file\besafe\app\src\main\AndroidManifest.xml:14:22-62
+20-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:14:5-65
+20-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:14:22-62
 21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-21-->C:\file\besafe\app\src\main\AndroidManifest.xml:15:5-81
-21-->C:\file\besafe\app\src\main\AndroidManifest.xml:15:22-78
+21-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:15:5-81
+21-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:15:22-78
 22
 23    <!-- Include required permissions for Google Maps API to run. -->
 24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -47,22 +47,22 @@
 28-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
 29
 30    <application
-30-->C:\file\besafe\app\src\main\AndroidManifest.xml:17:5-75:19
+30-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:17:5-75:19
 31        android:allowBackup="true"
-31-->C:\file\besafe\app\src\main\AndroidManifest.xml:18:9-35
+31-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:18:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
 33        android:debuggable="true"
 34        android:icon="@mipmap/icon_foreground"
-34-->C:\file\besafe\app\src\main\AndroidManifest.xml:19:9-47
+34-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:19:9-47
 35        android:label="@string/app_name"
-35-->C:\file\besafe\app\src\main\AndroidManifest.xml:20:9-41
+35-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:20:9-41
 36        android:roundIcon="@drawable/logoy"
-36-->C:\file\besafe\app\src\main\AndroidManifest.xml:21:9-44
+36-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:21:9-44
 37        android:supportsRtl="true"
-37-->C:\file\besafe\app\src\main\AndroidManifest.xml:22:9-35
+37-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:22:9-35
 38        android:theme="@style/AppTheme" >
-38-->C:\file\besafe\app\src\main\AndroidManifest.xml:23:9-40
+38-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:23:9-40
 39
 40        <!--
 41             The API key for Google Maps-based APIs is defined as a string resource.
@@ -73,87 +73,87 @@
 46             You can define the keys for the debug and release targets in src/debug/ and src/release/.
 47        -->
 48        <meta-data
-48-->C:\file\besafe\app\src\main\AndroidManifest.xml:33:9-35:55
+48-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:33:9-35:55
 49            android:name="com.google.android.geo.API_KEY"
-49-->C:\file\besafe\app\src\main\AndroidManifest.xml:34:13-58
+49-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:34:13-58
 50            android:value="@string/google_maps_key" />
-50-->C:\file\besafe\app\src\main\AndroidManifest.xml:35:13-52
+50-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:35:13-52
 51
 52        <activity
-52-->C:\file\besafe\app\src\main\AndroidManifest.xml:37:9-39:68
+52-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:37:9-39:68
 53            android:name="com.example.besafeproject.MapsActivity"
-53-->C:\file\besafe\app\src\main\AndroidManifest.xml:38:13-41
+53-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:38:13-41
 54            android:label="@string/title_activity_maps" />
-54-->C:\file\besafe\app\src\main\AndroidManifest.xml:39:13-56
+54-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:39:13-56
 55        <activity
-55-->C:\file\besafe\app\src\main\AndroidManifest.xml:40:9-42:59
+55-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:40:9-42:59
 56            android:name="com.example.besafeproject.MainActivity2"
-56-->C:\file\besafe\app\src\main\AndroidManifest.xml:41:13-42
+56-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:41:13-42
 57            android:theme="@style/AppTheme.NoActionBar" />
-57-->C:\file\besafe\app\src\main\AndroidManifest.xml:42:13-56
+57-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:42:13-56
 58        <activity android:name="com.example.besafeproject.MainActivity" />
-58-->C:\file\besafe\app\src\main\AndroidManifest.xml:43:9-50
-58-->C:\file\besafe\app\src\main\AndroidManifest.xml:43:19-47
+58-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:43:9-50
+58-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:43:19-47
 59        <activity android:name="com.example.besafeproject.NewMemoryActivity" />
-59-->C:\file\besafe\app\src\main\AndroidManifest.xml:44:9-55
-59-->C:\file\besafe\app\src\main\AndroidManifest.xml:44:19-52
+59-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:44:9-55
+59-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:44:19-52
 60        <activity
-60-->C:\file\besafe\app\src\main\AndroidManifest.xml:45:9-47:66
+60-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:45:9-47:66
 61            android:name="com.example.besafeproject.sensortest"
-61-->C:\file\besafe\app\src\main\AndroidManifest.xml:46:13-39
+61-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:46:13-39
 62            android:theme="@style/Theme.AppCompat.NoActionBar" />
-62-->C:\file\besafe\app\src\main\AndroidManifest.xml:47:13-63
+62-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:47:13-63
 63        <activity
-63-->C:\file\besafe\app\src\main\AndroidManifest.xml:48:9-50:66
+63-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:48:9-50:66
 64            android:name="com.example.besafeproject.Riderinfo"
-64-->C:\file\besafe\app\src\main\AndroidManifest.xml:49:13-38
+64-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:49:13-38
 65            android:theme="@style/Theme.AppCompat.NoActionBar" />
-65-->C:\file\besafe\app\src\main\AndroidManifest.xml:50:13-63
+65-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:50:13-63
 66        <activity
-66-->C:\file\besafe\app\src\main\AndroidManifest.xml:51:9-53:59
+66-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:51:9-53:59
 67            android:name="com.example.besafeproject.AddModifyTask"
-67-->C:\file\besafe\app\src\main\AndroidManifest.xml:52:13-42
+67-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:52:13-42
 68            android:theme="@style/AppTheme.NoActionBar" />
-68-->C:\file\besafe\app\src\main\AndroidManifest.xml:53:13-56
+68-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:53:13-56
 69        <activity
-69-->C:\file\besafe\app\src\main\AndroidManifest.xml:54:9-56:59
+69-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:54:9-56:59
 70            android:name="com.example.besafeproject.MA"
-70-->C:\file\besafe\app\src\main\AndroidManifest.xml:55:13-31
+70-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:55:13-31
 71            android:theme="@style/AppTheme.NoActionBar" />
-71-->C:\file\besafe\app\src\main\AndroidManifest.xml:56:13-56
+71-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:56:13-56
 72        <activity
-72-->C:\file\besafe\app\src\main\AndroidManifest.xml:57:9-59:66
+72-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:57:9-59:66
 73            android:name="com.example.besafeproject.mainmenu"
-73-->C:\file\besafe\app\src\main\AndroidManifest.xml:58:13-37
+73-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:58:13-37
 74            android:theme="@style/Theme.AppCompat.NoActionBar" />
-74-->C:\file\besafe\app\src\main\AndroidManifest.xml:59:13-63
+74-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:59:13-63
 75        <activity
-75-->C:\file\besafe\app\src\main\AndroidManifest.xml:60:9-62:66
+75-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:60:9-62:66
 76            android:name="com.example.besafeproject.signup"
-76-->C:\file\besafe\app\src\main\AndroidManifest.xml:61:13-35
+76-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:61:13-35
 77            android:theme="@style/Theme.AppCompat.NoActionBar" />
-77-->C:\file\besafe\app\src\main\AndroidManifest.xml:62:13-63
+77-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:62:13-63
 78        <activity
-78-->C:\file\besafe\app\src\main\AndroidManifest.xml:63:9-65:66
+78-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:63:9-65:66
 79            android:name="com.example.besafeproject.login"
-79-->C:\file\besafe\app\src\main\AndroidManifest.xml:64:13-34
+79-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:64:13-34
 80            android:theme="@style/Theme.AppCompat.NoActionBar" />
-80-->C:\file\besafe\app\src\main\AndroidManifest.xml:65:13-63
+80-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:65:13-63
 81        <activity
-81-->C:\file\besafe\app\src\main\AndroidManifest.xml:66:9-74:20
+81-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:66:9-74:20
 82            android:name="com.example.besafeproject.splashscreen"
-82-->C:\file\besafe\app\src\main\AndroidManifest.xml:67:13-41
+82-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:67:13-41
 83            android:theme="@style/Theme.AppCompat.NoActionBar" >
-83-->C:\file\besafe\app\src\main\AndroidManifest.xml:68:13-63
+83-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:68:13-63
 84            <intent-filter>
-84-->C:\file\besafe\app\src\main\AndroidManifest.xml:69:13-73:29
+84-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:69:13-73:29
 85                <action android:name="android.intent.action.MAIN" />
-85-->C:\file\besafe\app\src\main\AndroidManifest.xml:70:17-69
-85-->C:\file\besafe\app\src\main\AndroidManifest.xml:70:25-66
+85-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:70:17-69
+85-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:70:25-66
 86
 87                <category android:name="android.intent.category.LAUNCHER" />
-87-->C:\file\besafe\app\src\main\AndroidManifest.xml:72:17-77
-87-->C:\file\besafe\app\src\main\AndroidManifest.xml:72:27-74
+87-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:72:17-77
+87-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:72:27-74
 88            </intent-filter>
 89        </activity>
 90        <!-- Needs to be explicitly declared on P+ -->
