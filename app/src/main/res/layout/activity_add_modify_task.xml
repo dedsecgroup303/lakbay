@@ -18,7 +18,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="@drawable/newevent"
+            android:background="@drawable/heads"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
             app:contentInsetStart="0dp">
 
@@ -63,14 +63,15 @@
             android:visibility="gone"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.92">
+            app:layout_constraintVertical_bias="1.0">
 
             <ImageView
                 android:layout_width="16dp"
                 android:layout_height="16dp"
-                android:src="@drawable/del"
+                android:src="@drawable/delate"
                 android:tint="#FFFFFF" />
 
             <TextView
@@ -91,21 +92,21 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_gravity="center"
-            android:layout_marginBottom="108dp"
-            android:background="#ABBFF5"
+            android:layout_marginBottom="60dp"
+            android:background="@drawable/radius_border_button"
             android:onClick="saveTask"
             android:paddingVertical="15dp"
             android:text="ADD"
             android:textColor="#FFFFFF"
             app:layout_constraintBottom_toBottomOf="parent"
-            tools:layout_editor_absoluteX="-16dp" />
+            tools:layout_editor_absoluteX="0dp" />
 
         <LinearLayout
             android:id="@+id/custom_config"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="60dp"
             android:layout_above="@+id/deleteTask"
-            android:background="@drawable/rests"
+            android:background="@drawable/calendarbg"
             android:gravity="center"
             android:onClick="chooseDate"
             android:orientation="horizontal"
@@ -113,9 +114,10 @@
             android:paddingVertical="20dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.743">
+            app:layout_constraintVertical_bias="0.791">
 
             <ImageView
                 android:layout_width="16dp"

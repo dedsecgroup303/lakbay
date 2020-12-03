@@ -9,39 +9,43 @@
     <fragment
         android:id="@+id/map"
         android:name="com.google.android.gms.maps.SupportMapFragment"
-        android:layout_width="409dp"
-        android:layout_height="681dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         map:layout_constraintBottom_toBottomOf="parent"
         map:layout_constraintEnd_toEndOf="parent"
         map:layout_constraintHorizontal_bias="0.0"
         map:layout_constraintStart_toStartOf="parent"
         map:layout_constraintTop_toTopOf="parent"
-        map:layout_constraintVertical_bias="1.0" />
+        map:layout_constraintVertical_bias="0.0" />
 
     <EditText
         android:id="@+id/ed"
         android:layout_width="314dp"
         android:layout_height="38dp"
+        android:background="@drawable/radius_border_button"
+        android:gravity="center"
         android:hint="let see this area"
+        android:textColorHint="@color/white"
         map:layout_constraintBottom_toBottomOf="parent"
         map:layout_constraintEnd_toEndOf="parent"
-        map:layout_constraintHorizontal_bias="0.0"
+        map:layout_constraintHorizontal_bias="0.587"
         map:layout_constraintStart_toStartOf="parent"
         map:layout_constraintTop_toTopOf="parent"
-        map:layout_constraintVertical_bias="0.0" />
+        map:layout_constraintVertical_bias="0.935" />
 
     <Button
         android:id="@+id/find"
         android:layout_width="79dp"
         android:layout_height="43dp"
+        android:background=""
         android:onClick="geolocate"
         android:text="Find"
         map:layout_constraintBottom_toBottomOf="parent"
         map:layout_constraintEnd_toEndOf="parent"
-        map:layout_constraintHorizontal_bias="1.0"
+        map:layout_constraintHorizontal_bias="0.53"
         map:layout_constraintStart_toStartOf="parent"
         map:layout_constraintTop_toTopOf="parent"
-        map:layout_constraintVertical_bias="0.0" />
+        map:layout_constraintVertical_bias="1.0" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
