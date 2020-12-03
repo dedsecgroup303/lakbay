@@ -27,7 +27,6 @@ public class AddModifyTask extends AppCompatActivity {
 
     Boolean isModify = false;
     String task_id;
-    TextView toolbar_title;
     EditText edit_text;
     TextView dateText;
     Button save_btn;
@@ -59,7 +58,6 @@ public class AddModifyTask extends AppCompatActivity {
     }
 
     public void init_modify() {
-        toolbar_title.setText("Modify Task");
         save_btn.setText("Update");
         LinearLayout deleteTask = findViewById(R.id.deleteTask);
         deleteTask.setVisibility(View.VISIBLE);

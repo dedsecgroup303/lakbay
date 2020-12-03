@@ -140,16 +140,16 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_maine.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxhdpi\\maine.png"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_plcamera.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xhdpi\\plcamera.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_maine.png.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxhdpi\\maine.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_with_line_height_from_appearance.xml.flat",
@@ -208,10 +208,6 @@
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-ldpi\\newevent.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camear.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-hdpi\\camear.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_start_icon.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\layout\\design_text_input_start_icon.xml"
     },
@@ -220,28 +216,24 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoy.png.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\logoy.png"
+    },
+    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logoy.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-ldpi\\logoy.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baylak.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-hdpi\\baylak.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_popupmenu_overlay_color.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\color\\mtrl_popupmenu_overlay_color.xml"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_popupmenu_overlay_color.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\color\\mtrl_popupmenu_overlay_color.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -268,12 +260,12 @@
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\plupload.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_compass.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-hdpi\\compass.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_addtitle.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\addtitle.png"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_compass.png.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-hdpi\\compass.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
@@ -364,20 +356,20 @@
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-ldpi\\headertop.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_right_black_24dp.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\drawable\\ic_keyboard_arrow_right_black_24dp.xml"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\f01b27bb220ecb79298884ef36a7a2fb\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog_title.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\layout\\mtrl_alert_dialog_title.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\f01b27bb220ecb79298884ef36a7a2fb\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\drawable\\ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
@@ -404,12 +396,12 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\color\\mtrl_chip_close_icon_tint.xml"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\color\\mtrl_chip_close_icon_tint.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
@@ -484,16 +476,16 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_del.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\del.png"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_del.png.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\del.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
@@ -512,28 +504,28 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mainmanus.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\mainmanus.png"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
@@ -572,10 +564,6 @@
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxhdpi\\mainmanus.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logoy.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xhdpi\\logoy.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_fab_ripple_color.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\color\\mtrl_fab_ripple_color.xml"
     },
@@ -612,12 +600,12 @@
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\radius_border_button_text.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_month.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\layout\\mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -748,20 +736,12 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\layout\\test_toolbar.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baylak.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\baylak.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_camear.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\camear.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -784,12 +764,12 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_plupload.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxhdpi\\plupload.png"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -908,12 +888,12 @@
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\compassu.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_mtrl_bottom_sheet_slide_in.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_in.xml"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b64f80842d3d302e8b4275c4ce2e897c\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_mtrl_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -972,12 +952,12 @@
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_newevent.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-mdpi\\newevent.png"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1016,12 +996,12 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_addtitle.png.flat",
@@ -1060,12 +1040,12 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
-        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable\\tooltip_frame_dark.xml"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
@@ -1160,10 +1140,6 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logoy.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxhdpi\\logoy.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
@@ -1186,10 +1162,6 @@
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baylak.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xhdpi\\baylak.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_one.png.flat",
@@ -1232,12 +1204,8 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_camear.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-ldpi\\camear.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_baylak.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-ldpi\\baylak.png"
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\back.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mainmanus.png.flat",
@@ -1420,10 +1388,6 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camear.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xhdpi\\camear.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1576,10 +1540,6 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logoy.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\logoy.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1628,10 +1588,6 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_camear.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-mdpi\\camear.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_date_picker.xml.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\layout\\date_picker.xml"
     },
@@ -1668,20 +1624,12 @@
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad44dfbc5c724b7cb21b0db6504cef13\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baylak.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-mdpi\\baylak.png"
-    },
-    {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camear.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxhdpi\\camear.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_security_black_24dp.xml.flat",
@@ -1710,10 +1658,6 @@
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mapaa.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\mapaa.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baylak.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxhdpi\\baylak.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",
@@ -1902,10 +1846,6 @@
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\b8286ed28b50483d1bfadc3ffa43e8ca\\material-1.1.0\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logoy.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-hdpi\\logoy.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_text_input_date_range.xml.flat",
@@ -2158,6 +2098,10 @@
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\ACER-USER\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camear.png.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\camear.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
@@ -2442,10 +2386,6 @@
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rests.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-xxxhdpi\\rests.png"
-    },
-    {
-        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logoy.png.flat",
-        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable-mdpi\\logoy.png"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
@@ -3026,6 +2966,10 @@
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_foreground.png.flat",
         "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teamlogs.jpg.flat",
+        "source": "C:\\lakbay\\lakbay\\app\\src\\main\\res\\drawable\\teamlogs.jpg"
     },
     {
         "merged": "C:\\lakbay\\lakbay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",

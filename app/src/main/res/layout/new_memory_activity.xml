@@ -22,87 +22,100 @@
 
     <EditText
         android:id="@+id/new_memory_title"
-        android:textSize="70px"
-        android:textColor="@color/black"
-        android:textStyle="bold"
         android:layout_width="299dp"
         android:layout_height="58dp"
+        android:background="@drawable/radius_border_button"
         android:hint="@string/new_memory_title_hint"
+        android:textAlignment="center"
+        android:textColorHint="@color/white"
+        android:textSize="70px"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.517"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.39" />
+        app:layout_constraintVertical_bias="0.58" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/plupload"
+        android:layout_width="194dp"
+        android:layout_height="51dp"
+        android:background="@drawable/radius_border_button"
         android:onClick="openGallery"
         android:text="@string/new_memory_btn_gallery"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.594" />
+        app:layout_constraintVertical_bias="0.476" />
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/plcamera"
+        android:layout_width="189dp"
+        android:layout_height="47dp"
+        android:background="@drawable/radius_border_button"
         android:onClick="openCamera"
         android:text="@string/new_memory_btn_camera"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
 
-        />
+        app:layout_constraintVertical_bias="0.385" />
 
     <Button
         android:id="@+id/new_memory_cancel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/rests"
+        android:background="@drawable/radius_border_button"
         android:onClick="cancel"
         android:text="@string/new_memory_btn_cancel"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.205"
+        app:layout_constraintHorizontal_bias="0.758"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.679" />
+        app:layout_constraintVertical_bias="0.677" />
 
     <Button
         android:id="@+id/saves"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/rests"
+        android:background="@drawable/radius_border_button"
         android:onClick="save"
         android:text="@string/new_memory_btn_save"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.859"
+        app:layout_constraintHorizontal_bias="0.238"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.679" />
+        app:layout_constraintVertical_bias="0.677" />
 
     <Button
-        android:layout_width="129dp"
-        android:layout_height="55dp"
-        android:background="@drawable/mainmanus"
         android:id="@+id/MM"
+        android:layout_width="72dp"
+        android:layout_height="67dp"
+        android:background="@drawable/back"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.056"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.989"
-        android:text="Main Menu"/>
+        app:layout_constraintVertical_bias="0.976" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
