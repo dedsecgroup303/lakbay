@@ -58,12 +58,6 @@
             android:name=".mainmenu"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
-            android:name=".signup"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity
-            android:name=".login"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity
             android:name=".splashscreen"
             android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
