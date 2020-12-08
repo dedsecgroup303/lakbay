@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity2">
+    tools:context=".MainActivity2"
+    android:background="@color/backroundd">
 
     <TextView
         android:id="@+id/textView2"
@@ -13,6 +14,8 @@
         android:textAlignment="center"
         android:textSize="40sp"
         android:text="0"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -23,7 +26,7 @@
     <ImageView
         android:layout_width="355dp"
         android:layout_height="493dp"
-        android:src="@drawable/compassu"
+        android:src="@drawable/nrth"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
