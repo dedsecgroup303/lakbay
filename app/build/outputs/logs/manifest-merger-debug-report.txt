@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
+ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\d74b5b498b35fd5cb32d0a6997bb1d3d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -52,20 +52,20 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ACER-USER\.gra
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\534dfe358287b68b5ba1038d10b7afc0\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\69ba81d17fd1c26c75281615add0554c\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\dfb492cc287797dd33a3c5846b585e85\relinker-1.3.1\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
-INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
 		INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
+		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
 		INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-77:12
+		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:1-71:12
 		INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:2:11-69
@@ -96,7 +96,7 @@ ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:15:5-81
 	android:name
 		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:15:22-78
 application
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:17:5-75:19
+ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:17:5-69:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\b8286ed28b50483d1bfadc3ffa43e8ca\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -189,34 +189,22 @@ ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:57:9-59:66
 		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:59:13-63
 	android:name
 		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:58:13-37
-activity#com.example.besafeproject.signup
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:60:9-62:66
+activity#com.example.besafeproject.splashscreen
+ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:60:9-68:20
 	android:theme
 		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:62:13-63
 	android:name
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:61:13-35
-activity#com.example.besafeproject.login
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:63:9-65:66
-	android:theme
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:65:13-63
-	android:name
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:64:13-34
-activity#com.example.besafeproject.splashscreen
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:66:9-74:20
-	android:theme
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:68:13-63
-	android:name
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:67:13-41
+		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:61:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:69:13-73:29
+ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:63:13-67:29
 action#android.intent.action.MAIN
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:70:17-69
+ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:64:17-69
 	android:name
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:70:25-66
+		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:64:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:72:17-77
+ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:72:27-74
+		ADDED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:66:27-74
 uses-sdk
 INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\lakbay\lakbay\app\src\main\AndroidManifest.xml

@@ -1403,6 +1403,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable cal
+drawable calendarbg
 drawable camear
 drawable cammer
 drawable common_full_open_on_phone
@@ -1427,6 +1428,7 @@ drawable common_google_signin_btn_text_light_normal_background
 drawable compass
 drawable compassu
 drawable del
+drawable delate
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1434,12 +1436,15 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable dialo
+drawable gmap
 drawable google
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable gradle
 drawable handso
+drawable headerss
 drawable headertop
+drawable heads
 drawable ic_account_box_black_24dp
 drawable ic_account_circle_black_24dp
 drawable ic_calendar_black_24dp
@@ -1491,6 +1496,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable nrth
 drawable one
 drawable phone
 drawable phone2
@@ -1509,6 +1515,7 @@ drawable scoutx
 drawable teamlogs
 drawable test_custom_background
 drawable todo
+drawable todolista
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -1614,6 +1621,7 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id confirm_button
+id constraintLayout2
 id constraints
 id contactnumber
 id container
@@ -1666,8 +1674,6 @@ id forever
 id ghost_view
 id ghost_view_holder
 id gone
-id gpmobilenumber
-id gpname
 id group_divider
 id groups
 id hideable
@@ -1680,6 +1686,7 @@ id icon_only
 id ifRoom
 id image
 id imageView
+id imageView2
 id img
 id imgviews
 id info
@@ -1696,7 +1703,6 @@ id listMode
 id list_item
 id list_item_image_view
 id list_item_text_view
-id login
 id map
 id masked
 id media_actions
@@ -1753,9 +1759,7 @@ id parent
 id parentPanel
 id parent_matrix
 id parentname
-id password
 id password_toggle
-id passwords
 id peekHeight
 id percent
 id pin
@@ -1795,7 +1799,6 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
-id signup
 id skipCollapsed
 id slide
 id smallLabel
@@ -1815,7 +1818,6 @@ id start
 id status_bar_latest_event_content
 id stretch
 id submenuarrow
-id submit
 id submit_area
 id tabMode
 id tag_accessibility_actions
@@ -1866,8 +1868,6 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id username
-id usernamee
 id view_offset_helper
 id visible
 id wide
@@ -1936,14 +1936,12 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_add_modify_task
-layout activity_login
 layout activity_main
 layout activity_main2
 layout activity_mainmenu
 layout activity_maps
 layout activity_riderinfo
 layout activity_sensortest
-layout activity_signup
 layout custom_dialog
 layout date_picker
 layout design_bottom_navigation_item

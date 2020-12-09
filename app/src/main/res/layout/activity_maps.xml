@@ -37,7 +37,7 @@
         android:id="@+id/find"
         android:layout_width="79dp"
         android:layout_height="43dp"
-        android:background=""
+        android:background="@drawable/radius_border_button"
         android:onClick="geolocate"
         android:text="Find"
         map:layout_constraintBottom_toBottomOf="parent"

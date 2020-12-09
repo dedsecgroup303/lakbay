@@ -28,7 +28,7 @@
 
     <Button
         android:id="@+id/RX"
-        android:layout_width="175dp"
+        android:layout_width="150dp"
         android:layout_height="100dp"
         android:background="@drawable/camear"
         android:textStyle="bold"
@@ -41,7 +41,7 @@
 
     <Button
         android:id="@+id/sensor"
-        android:layout_width="175dp"
+        android:layout_width="150dp"
         android:layout_height="100dp"
         android:background="@drawable/compass"
         android:textStyle="bold"
@@ -54,7 +54,7 @@
 
     <Button
         android:id="@+id/Logout"
-        android:layout_width="162dp"
+        android:layout_width="150dp"
         android:layout_height="99dp"
         android:background="@drawable/todolista"
         android:text="@string/Logout"
@@ -68,7 +68,7 @@
 
     <Button
         android:id="@+id/travel"
-        android:layout_width="175dp"
+        android:layout_width="150dp"
         android:layout_height="100dp"
         android:background="@drawable/gmap"
         android:text="@string/travel"
@@ -82,7 +82,7 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="358dp"
+        android:layout_width="340dp"
         android:layout_height="215dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

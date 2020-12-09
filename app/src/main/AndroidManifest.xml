@@ -40,8 +40,10 @@
         <activity
             android:name=".MainActivity2"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".NewMemoryActivity" />
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".NewMemoryActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
         <activity
             android:name=".sensortest"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
