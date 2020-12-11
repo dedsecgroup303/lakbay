@@ -8,7 +8,7 @@
     android:paddingStart="16dp"
     android:paddingEnd="16dp"
     tools:context=".MainActivity"
-    android:background="@drawable/imagevew">
+    android:background="@color/backroundd">
 
     <GridView
         android:id="@+id/activity_main_grid_view"

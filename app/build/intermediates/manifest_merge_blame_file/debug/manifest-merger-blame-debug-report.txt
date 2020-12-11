@@ -47,7 +47,7 @@
 28-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
 29
 30    <application
-30-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:17:5-69:19
+30-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:17:5-68:19
 31        android:allowBackup="true"
 31-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:18:9-35
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -91,89 +91,89 @@
 56-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:41:13-42
 57            android:theme="@style/AppTheme.NoActionBar" />
 57-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:42:13-56
-58        <activity android:name="com.example.besafeproject.MainActivity" />
-58-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:43:9-50
-58-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:43:19-47
-59        <activity android:name="com.example.besafeproject.NewMemoryActivity" />
-59-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:44:9-55
-59-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:44:19-52
-60        <activity
-60-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:45:9-47:66
-61            android:name="com.example.besafeproject.sensortest"
-61-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:46:13-39
-62            android:theme="@style/Theme.AppCompat.NoActionBar" />
-62-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:47:13-63
-63        <activity
-63-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:48:9-50:66
-64            android:name="com.example.besafeproject.Riderinfo"
-64-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:49:13-38
-65            android:theme="@style/Theme.AppCompat.NoActionBar" />
-65-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:50:13-63
-66        <activity
-66-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:51:9-53:59
-67            android:name="com.example.besafeproject.AddModifyTask"
-67-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:52:13-42
-68            android:theme="@style/AppTheme.NoActionBar" />
-68-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:53:13-56
-69        <activity
-69-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:54:9-56:59
-70            android:name="com.example.besafeproject.MA"
-70-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:55:13-31
-71            android:theme="@style/AppTheme.NoActionBar" />
-71-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:56:13-56
-72        <activity
-72-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:57:9-59:66
-73            android:name="com.example.besafeproject.mainmenu"
-73-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:58:13-37
-74            android:theme="@style/Theme.AppCompat.NoActionBar" />
-74-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:59:13-63
-75        <activity
-75-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:60:9-68:20
-76            android:name="com.example.besafeproject.splashscreen"
-76-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:61:13-41
-77            android:theme="@style/Theme.AppCompat.NoActionBar" >
-77-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:62:13-63
-78            <intent-filter>
-78-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:63:13-67:29
-79                <action android:name="android.intent.action.MAIN" />
-79-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:64:17-69
-79-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:64:25-66
-80
-81                <category android:name="android.intent.category.LAUNCHER" />
-81-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:66:17-77
-81-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:66:27-74
-82            </intent-filter>
-83        </activity>
-84        <!-- Needs to be explicitly declared on P+ -->
-85        <uses-library
-85-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
-86            android:name="org.apache.http.legacy"
-86-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
-87            android:required="false" />
-87-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
-88
-89        <service
-89-->[androidx.room:room-runtime:2.2.2] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\f808393bedcf6de40de959d0926e2d8a\room-runtime-2.2.2\AndroidManifest.xml:25:9-27:40
-90            android:name="androidx.room.MultiInstanceInvalidationService"
-90-->[androidx.room:room-runtime:2.2.2] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\f808393bedcf6de40de959d0926e2d8a\room-runtime-2.2.2\AndroidManifest.xml:26:13-74
-91            android:exported="false" />
-91-->[androidx.room:room-runtime:2.2.2] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\f808393bedcf6de40de959d0926e2d8a\room-runtime-2.2.2\AndroidManifest.xml:27:13-37
-92
-93        <activity
-93-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
-94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-94-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
-95            android:exported="false"
-95-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
-96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-96-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
-97
-98        <meta-data
-98-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
-99            android:name="com.google.android.gms.version"
-99-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
-100            android:value="@integer/google_play_services_version" />
-100-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
-101    </application>
-102
-103</manifest>
+58        <activity
+58-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:43:9-44:58
+59            android:name="com.example.besafeproject.MainActivity"
+59-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:43:19-47
+60            android:theme="@style/AppTheme.NoActionBar" />
+60-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:44:13-56
+61        <activity
+61-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:45:9-46:58
+62            android:name="com.example.besafeproject.NewMemoryActivity"
+62-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:45:19-52
+63            android:theme="@style/AppTheme.NoActionBar" />
+63-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:46:13-56
+64        <activity
+64-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:47:9-49:66
+65            android:name="com.example.besafeproject.sensortest"
+65-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:48:13-39
+66            android:theme="@style/Theme.AppCompat.NoActionBar" />
+66-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:49:13-63
+67        <activity
+67-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:50:9-52:59
+68            android:name="com.example.besafeproject.AddModifyTask"
+68-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:51:13-42
+69            android:theme="@style/AppTheme.NoActionBar" />
+69-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:52:13-56
+70        <activity
+70-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:53:9-55:59
+71            android:name="com.example.besafeproject.MA"
+71-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:54:13-31
+72            android:theme="@style/AppTheme.NoActionBar" />
+72-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:55:13-56
+73        <activity
+73-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:56:9-58:66
+74            android:name="com.example.besafeproject.mainmenu"
+74-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:57:13-37
+75            android:theme="@style/Theme.AppCompat.NoActionBar" />
+75-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:58:13-63
+76        <activity
+76-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:59:9-67:20
+77            android:name="com.example.besafeproject.splashscreen"
+77-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:60:13-41
+78            android:theme="@style/Theme.AppCompat.NoActionBar" >
+78-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:61:13-63
+79            <intent-filter>
+79-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:62:13-66:29
+80                <action android:name="android.intent.action.MAIN" />
+80-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:63:17-69
+80-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:63:25-66
+81
+82                <category android:name="android.intent.category.LAUNCHER" />
+82-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:65:17-77
+82-->C:\lakbay\lakbay\app\src\main\AndroidManifest.xml:65:27-74
+83            </intent-filter>
+84        </activity>
+85        <!-- Needs to be explicitly declared on P+ -->
+86        <uses-library
+86-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
+87            android:name="org.apache.http.legacy"
+87-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
+88            android:required="false" />
+88-->[com.google.android.gms:play-services-maps:16.1.0] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ba87772202a7ddae50bd83edfa0d1bc3\jetified-play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
+89
+90        <service
+90-->[androidx.room:room-runtime:2.2.2] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\f808393bedcf6de40de959d0926e2d8a\room-runtime-2.2.2\AndroidManifest.xml:25:9-27:40
+91            android:name="androidx.room.MultiInstanceInvalidationService"
+91-->[androidx.room:room-runtime:2.2.2] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\f808393bedcf6de40de959d0926e2d8a\room-runtime-2.2.2\AndroidManifest.xml:26:13-74
+92            android:exported="false" />
+92-->[androidx.room:room-runtime:2.2.2] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\f808393bedcf6de40de959d0926e2d8a\room-runtime-2.2.2\AndroidManifest.xml:27:13-37
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\ad44dfbc5c724b7cb21b0db6504cef13\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+98
+99        <meta-data
+99-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+100            android:name="com.google.android.gms.version"
+100-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+101            android:value="@integer/google_play_services_version" />
+101-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\ACER-USER\.gradle\caches\transforms-2\files-2.1\303bed73d125c08519b52c60afa40740\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+102    </application>
+103
+104</manifest>

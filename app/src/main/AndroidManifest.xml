@@ -48,9 +48,6 @@
             android:name=".sensortest"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
-            android:name=".Riderinfo"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity
             android:name=".AddModifyTask"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity

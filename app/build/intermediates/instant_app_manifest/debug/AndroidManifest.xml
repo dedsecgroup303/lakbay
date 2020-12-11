@@ -56,13 +56,14 @@
         <activity
             android:name="com.example.besafeproject.MainActivity2"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.example.besafeproject.MainActivity" />
-        <activity android:name="com.example.besafeproject.NewMemoryActivity" />
+        <activity
+            android:name="com.example.besafeproject.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.besafeproject.NewMemoryActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.example.besafeproject.sensortest"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity
-            android:name="com.example.besafeproject.Riderinfo"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name="com.example.besafeproject.AddModifyTask"

@@ -15,7 +15,7 @@ import android.widget.ImageView;
 
 import static java.lang.Thread.sleep;
 
-public class splashscreen extends AppCompatActivity implements SensorEventListener {
+public class splashscreen extends AppCompatActivity  {
 
     ImageView splashimage;
     Sensor mysensor;
@@ -27,20 +27,6 @@ public class splashscreen extends AppCompatActivity implements SensorEventListen
         setContentView(R.layout.splashscreen);
 
         splashimage= findViewById(R.id.img);
-
-        mysensormaneger = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
-        if (mysensormaneger.getDefaultSensor(Sensor.TYPE_ACCELEROMETER) != null) {
-            // success! we have an accelerometer
-
-            mysensor = mysensormaneger.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
-            mysensormaneger.registerListener(this, mysensor, SensorManager.SENSOR_DELAY_NORMAL);
-        } else {
-            finish();
-            System.exit(0);
-        }
-
-
-
         Animation myanim= AnimationUtils.loadAnimation(this,R.anim.myanimation);
         splashimage.startAnimation(myanim);
 
@@ -62,13 +48,4 @@ public class splashscreen extends AppCompatActivity implements SensorEventListen
         myThread.start();
     }
 
-    @Override
-    public void onSensorChanged(SensorEvent sensorEvent) {
-
-    }
-
-    @Override
-    public void onAccuracyChanged(Sensor sensor, int i) {
-
-    }
 }

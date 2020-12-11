@@ -7,9 +7,10 @@ import android.os.Bundle;
 import android.os.Process;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class mainmenu extends AppCompatActivity {
-    Button  logout, travell, sensortest,ridex;
+    Button  logout, travell, sensortest,ridex, exit;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,13 +21,16 @@ public class mainmenu extends AppCompatActivity {
         travell = findViewById(R.id.travel);
         sensortest = findViewById(R.id.sensor);
         ridex = findViewById(R.id.RX);
+        exit = findViewById(R.id.exit);
+
 
 
         logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent lagout = new Intent(mainmenu.this,MA.class);
-                startActivity(lagout);
+                Toast.makeText(mainmenu.this, "under construction", Toast.LENGTH_SHORT).show();
+//                Intent lagout = new Intent(mainmenu.this,MA.class);
+//                startActivity(lagout);
             }
         });
 
@@ -55,8 +59,17 @@ public class mainmenu extends AppCompatActivity {
             }
         });
 
+        exit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+               finish();
+            }
+        });
+    }
 
-
-
+    @Override
+    protected void onDestroy() {
+        Process.killProcess(Process.myPid());
+        super.onDestroy();
     }
 }
