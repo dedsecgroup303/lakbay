@@ -28,9 +28,8 @@ public class mainmenu extends AppCompatActivity {
         logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(mainmenu.this, "under construction", Toast.LENGTH_SHORT).show();
-//                Intent lagout = new Intent(mainmenu.this,MA.class);
-//                startActivity(lagout);
+                Intent lagout = new Intent(mainmenu.this,MA.class);
+                startActivity(lagout);
             }
         });
 
