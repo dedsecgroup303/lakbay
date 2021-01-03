@@ -66,10 +66,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
     <property name="ToolWindowLogcat.ShowToolbar" value="false" />
     <property name="android.sdk.path" value="C:/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -245,14 +246,30 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="232" y="139" key="AndroidCreateResourceFileDialog/0.0.1304.768@0.0.1304.768" timestamp="1605074302413" />
-    <state x="505" y="214" key="AndroidCreateXmlResourceDialog" timestamp="1605074794286">
+    <state x="505" y="214" key="AndroidCreateXmlResourceDialog" timestamp="1609642454893">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="505" y="214" key="AndroidCreateXmlResourceDialog/0.0.1304.768@0.0.1304.768" timestamp="1605074794286" />
-    <state x="432" y="139" key="FileChooserDialogImpl" timestamp="1605400431405">
+    <state x="505" y="214" key="AndroidCreateXmlResourceDialog/0.0.1304.768@0.0.1304.768" timestamp="1609642454893" />
+    <state x="432" y="139" key="FileChooserDialogImpl" timestamp="1608190436991">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="432" y="139" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1605400431405" />
+    <state x="432" y="139" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1608190436990" />
+    <state width="1244" height="191" key="GridCell.Tab.0.bottom" timestamp="1608185550579">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="191" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
+    <state width="1244" height="191" key="GridCell.Tab.0.center" timestamp="1608185550579">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="191" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
+    <state width="1244" height="191" key="GridCell.Tab.0.left" timestamp="1608185550579">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="191" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
+    <state width="1244" height="191" key="GridCell.Tab.0.right" timestamp="1608185550579">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1244" height="191" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
     <state x="153" y="26" key="SettingsEditor" timestamp="1603954639322">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -265,11 +282,11 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="92" y="92" width="1120" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1304.768@0.0.1304.768" timestamp="1602745113693" />
-    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1607658395205">
+    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1609642626577">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="418" y="208" key="com.intellij.ide.util.TipDialog/0.0.1304.768/1366.0.1280.680@0.0.1304.768" timestamp="1602070718342" />
-    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1607658395205" />
+    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1609642626577" />
     <state x="358" y="3" key="refactoring.ChangeSignatureDialog" timestamp="1605643652961">
       <screen x="0" y="0" width="1304" height="768" />
     </state>

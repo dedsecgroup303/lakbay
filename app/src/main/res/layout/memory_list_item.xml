@@ -24,7 +24,9 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:padding="4dp"
-            tools:text="A test title"/>
+            tools:text="A test title"
+            android:textColor="@color/white"
+            android:textSize="40sp"/>
 
     </LinearLayout>
 

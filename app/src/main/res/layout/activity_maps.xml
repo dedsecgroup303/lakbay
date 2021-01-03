@@ -24,6 +24,7 @@
         android:layout_height="38dp"
         android:background="@drawable/radius_border_button"
         android:gravity="center"
+        android:textColor="@color/white"
         android:hint="let see this area"
         android:textColorHint="@color/white"
         map:layout_constraintBottom_toBottomOf="parent"
