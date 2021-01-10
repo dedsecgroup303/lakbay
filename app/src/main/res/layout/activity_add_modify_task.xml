@@ -18,7 +18,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="@drawable/heads"
+            android:background="@drawable/hitter"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
             app:contentInsetStart="0dp">
 
@@ -38,7 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_above="@+id/custom_config"
-            android:background="@color/backroundd"
+            android:background="@color/colorPrimary"
             android:gravity="top"
             android:hint="What are you planning?"
             android:inputType="textMultiLine"
@@ -106,7 +106,7 @@
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_above="@+id/deleteTask"
-            android:background="@drawable/calendarbg"
+            android:background="@drawable/radius_border_button"
             android:gravity="center"
             android:onClick="chooseDate"
             android:orientation="horizontal"
@@ -131,7 +131,8 @@
                 android:layout_marginLeft="10dp"
                 android:text="29/05/2020"
                 android:textSize="16dp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:textColor="@color/white"/>
 
         </LinearLayout>
 

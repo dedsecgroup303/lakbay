@@ -5,14 +5,14 @@
     android:id="@+id/constraints"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/google">
+    android:background="@color/colorPrimary">
 
 
     <ImageView
         android:id="@+id/new_memory_selected_image"
         android:layout_width="296dp"
         android:layout_height="194dp"
-        android:src="@drawable/camear"
+        android:src="@drawable/cameranew"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.53"
@@ -109,7 +109,7 @@
         android:id="@+id/MM"
         android:layout_width="72dp"
         android:layout_height="67dp"
-        android:background="@drawable/back"
+        android:background="@drawable/backup"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.056"

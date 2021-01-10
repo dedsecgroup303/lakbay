@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
     <fragment
         android:id="@+id/map"
         android:name="com.google.android.gms.maps.SupportMapFragment"
@@ -18,21 +19,47 @@
         map:layout_constraintTop_toTopOf="parent"
         map:layout_constraintVertical_bias="0.0" />
 
+    <TextView
+        android:layout_width="76dp"
+        android:layout_height="23dp"
+        android:background="@color/colorPrimary"
+        android:textStyle="bold"
+        android:text="Map Types"
+        android:textColor="@color/white"
+        map:layout_constraintBottom_toBottomOf="parent"
+        map:layout_constraintEnd_toEndOf="parent"
+        map:layout_constraintHorizontal_bias="0.116"
+        map:layout_constraintStart_toStartOf="parent"
+        map:layout_constraintTop_toTopOf="parent"
+        map:layout_constraintVertical_bias="0.029" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        map:layout_constraintBottom_toBottomOf="parent"
+        map:layout_constraintEnd_toEndOf="parent"
+        map:layout_constraintHorizontal_bias="0.573"
+        map:layout_constraintStart_toStartOf="parent"
+        map:layout_constraintTop_toTopOf="parent"
+        map:layout_constraintVertical_bias="0.029"
+        android:textAlignment="center"/>
+
     <EditText
         android:id="@+id/ed"
         android:layout_width="314dp"
         android:layout_height="38dp"
         android:background="@drawable/radius_border_button"
         android:gravity="center"
-        android:textColor="@color/white"
         android:hint="let see this area"
+        android:textColor="@color/white"
         android:textColorHint="@color/white"
         map:layout_constraintBottom_toBottomOf="parent"
         map:layout_constraintEnd_toEndOf="parent"
-        map:layout_constraintHorizontal_bias="0.587"
+        map:layout_constraintHorizontal_bias="0.494"
         map:layout_constraintStart_toStartOf="parent"
         map:layout_constraintTop_toTopOf="parent"
-        map:layout_constraintVertical_bias="0.935" />
+        map:layout_constraintVertical_bias="0.847" />
 
     <Button
         android:id="@+id/find"
@@ -41,12 +68,13 @@
         android:background="@drawable/radius_border_button"
         android:onClick="geolocate"
         android:text="Find"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         map:layout_constraintBottom_toBottomOf="parent"
         map:layout_constraintEnd_toEndOf="parent"
-        map:layout_constraintHorizontal_bias="0.53"
         map:layout_constraintStart_toStartOf="parent"
         map:layout_constraintTop_toTopOf="parent"
-        map:layout_constraintVertical_bias="1.0" />
+        map:layout_constraintVertical_bias="0.934" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

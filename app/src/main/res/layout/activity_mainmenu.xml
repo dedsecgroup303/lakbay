@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".mainmenu"
-    android:background="@color/backroundd"
+    android:background="@color/colorPrimary"
     android:scaleX="1.1"
     android:scaleY="1.1">
 
@@ -28,54 +28,54 @@
 
     <Button
         android:id="@+id/RX"
-        android:layout_width="150dp"
-        android:layout_height="100dp"
-        android:background="@drawable/camear"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/cameranew"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.127"
+        app:layout_constraintHorizontal_bias="0.075"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.337" />
+        app:layout_constraintVertical_bias="0.312" />
 
     <Button
         android:id="@+id/sensor"
-        android:layout_width="150dp"
-        android:layout_height="100dp"
-        android:background="@drawable/compass"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/compassnew"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.868"
+        app:layout_constraintHorizontal_bias="0.924"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.526" />
+        app:layout_constraintVertical_bias="0.655" />
 
     <Button
         android:id="@+id/Logout"
-        android:layout_width="150dp"
-        android:layout_height="99dp"
-        android:background="@drawable/todolista"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/todonew"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.12"
+        app:layout_constraintHorizontal_bias="0.075"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.525" />
+        app:layout_constraintVertical_bias="0.642" />
 
     <Button
         android:id="@+id/travel"
-        android:layout_width="150dp"
-        android:layout_height="100dp"
-        android:background="@drawable/gmap"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/locationnew"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.868"
+        app:layout_constraintHorizontal_bias="0.924"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.337" />
+        app:layout_constraintVertical_bias="0.297" />
 
     <Button
         android:id="@+id/exit"
@@ -89,7 +89,7 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.727" />
+        app:layout_constraintVertical_bias="0.901" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -101,7 +101,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.054"
-        app:srcCompat="@drawable/headerss" />
+        app:srcCompat="@drawable/header" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
