@@ -8,10 +8,10 @@
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "57",
+                        "startOffsets": "55",
                         "endLines": "7",
                         "endColumns": "19",
-                        "endOffsets": "229"
+                        "endOffsets": "223"
                     },
                     "to": {
                         "startLines": "2",

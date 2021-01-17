@@ -34,7 +34,6 @@ public class MainActivity2 extends AppCompatActivity implements SensorEventListe
 
         mSensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         img_compass = findViewById(R.id.imgviews);
-        txt_azumuth = findViewById(R.id.textView2);
         txtpos = findViewById(R.id.tpositions);
         start();
     }
@@ -81,8 +80,7 @@ public class MainActivity2 extends AppCompatActivity implements SensorEventListe
         if (mAzimuth <= 80 && mAzimuth > 10)
             where = "NE";
 
-        txt_azumuth.setText(mAzimuth);
-        txtpos.setText(where);
+        txt_azumuth.setText(mAzimuth+""+where);
     }
 
 

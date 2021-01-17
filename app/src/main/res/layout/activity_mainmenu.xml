@@ -10,6 +10,7 @@
     android:scaleY="1.1">
 
 
+
 <!--    <Button-->
 <!--        android:id="@+id/riderinfor"-->
 <!--        style="@style/Widget.AppCompat.Button"-->
@@ -34,10 +35,13 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.312" />
+        app:layout_constraintVertical_bias="0.312"
+        android:text="UPLOAD"
+        android:textSize="30dp"
+        android:textColor="@color/CA"/>
 
     <Button
         android:id="@+id/sensor"
@@ -45,12 +49,15 @@
         android:layout_height="200dp"
         android:background="@drawable/compassnew"
         android:textStyle="bold"
+        android:text="Compass"
+        android:textSize="30dp"
+        android:textColor="@color/CA"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.924"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.655" />
+        app:layout_constraintVertical_bias="0.736" />
 
     <Button
         android:id="@+id/Logout"
@@ -59,10 +66,14 @@
         android:background="@drawable/todonew"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintHorizontal_bias="0.028"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.642" />
+        app:layout_constraintVertical_bias="0.736"
+        android:textColor="@color/CA"
+        android:text="TODO"
+        android:textSize="30dp"
+        android:textStyle="bold"/>
 
     <Button
         android:id="@+id/travel"
@@ -70,12 +81,15 @@
         android:layout_height="200dp"
         android:background="@drawable/locationnew"
         android:textStyle="bold"
+        android:text="MAP"
+        android:textSize="30dp"
+        android:textColor="@color/CA"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.924"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.297" />
+        app:layout_constraintVertical_bias="0.312" />
 
     <Button
         android:id="@+id/exit"
@@ -84,12 +98,13 @@
         android:background="@color/blue"
         android:text="exit"
         android:textStyle="bold"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.901" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <ImageView
         android:id="@+id/imageView2"

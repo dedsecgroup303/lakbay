@@ -1394,6 +1394,7 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable back
 drawable background
+drawable backup
 drawable bg_round
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -1405,7 +1406,7 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable cal
 drawable calendarbg
-drawable camear
+drawable cameranew
 drawable cammer
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
@@ -1426,7 +1427,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
-drawable compass
+drawable compassnew
 drawable compassu
 drawable del
 drawable delate
@@ -1437,19 +1438,23 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable dialo
-drawable gmap
+drawable element
 drawable google
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable gradle
 drawable handso
+drawable header
 drawable headerss
 drawable headertop
 drawable heads
+drawable hitter
 drawable ic_account_box_black_24dp
 drawable ic_account_circle_black_24dp
+drawable ic_baseline_format_list_bulleted_24
 drawable ic_calendar_black_24dp
 drawable ic_clear_black_24dp
+drawable ic_down
 drawable ic_edit_black_24dp
 drawable ic_exit_to_app_black_24dp
 drawable ic_fab_add
@@ -1466,8 +1471,10 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_security_black_24dp
 drawable ic_stay_current_portrait_black_24dp
+drawable ic_text
 drawable icon_plus
 drawable imagevew
+drawable locationnew
 drawable logoy
 drawable maine
 drawable mainmanus
@@ -1513,10 +1520,11 @@ drawable rider
 drawable riderinfobackground
 drawable rotate
 drawable scoutx
+drawable style_spinner
 drawable teamlogs
 drawable test_custom_background
 drawable todo
-drawable todolista
+drawable todonew
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -1804,6 +1812,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinner
 id split_action_bar
 id spread
 id spread_inside
@@ -1838,7 +1847,6 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView2
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1861,7 +1869,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id travel
-id types
 id unchecked
 id uniform
 id unlabeled
@@ -2007,6 +2014,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout splashscreen
+layout style_spinneer
 layout support_simple_spinner_dropdown_item
 layout task_list_row
 layout test_action_chip

@@ -21,7 +21,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="New_Device_API_28" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RBU6R19424003670" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -52,10 +52,10 @@
       <list>
         <option value="layoutResourceFile_vertical" />
         <option value="AnnotationType" />
-        <option value="resourceFile" />
         <option value="Class" />
         <option value="valueResourceFile" />
         <option value="layoutResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -214,6 +214,10 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="126" y="217" key="#PSD/0.0.1304.768@0.0.1304.768" timestamp="1606287595085" />
+    <state x="371" y="29" key="#app" timestamp="1610314020973">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="371" y="29" key="#app/0.0.1304.768@0.0.1304.768" timestamp="1610314020973" />
     <state x="457" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1606350800585">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -222,10 +226,10 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="448" y="243" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1304.768@0.0.1304.768" timestamp="1605074689274" />
-    <state x="382" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607580363824">
+    <state x="382" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610876038656">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="382" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1304.768@0.0.1304.768" timestamp="1607580363824" />
+    <state x="382" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1304.768@0.0.1304.768" timestamp="1610876038656" />
     <state x="382" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605423592844">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -234,14 +238,14 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="410" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1304.768@0.0.1304.768" timestamp="1603352701881" />
-    <state x="159" y="79" key="AndroidCreateResourceDirectoryDialog" timestamp="1605071868622">
+    <state x="159" y="79" key="AndroidCreateResourceDirectoryDialog" timestamp="1610774246813">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="159" y="79" key="AndroidCreateResourceDirectoryDialog/0.0.1304.768@0.0.1304.768" timestamp="1605071868622" />
-    <state x="232" y="139" key="AndroidCreateResourceFileDialog" timestamp="1609916110674">
+    <state x="159" y="79" key="AndroidCreateResourceDirectoryDialog/0.0.1304.768@0.0.1304.768" timestamp="1610774246813" />
+    <state x="232" y="139" key="AndroidCreateResourceFileDialog" timestamp="1610875884441">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="232" y="139" key="AndroidCreateResourceFileDialog/0.0.1304.768@0.0.1304.768" timestamp="1609916110674" />
+    <state x="232" y="139" key="AndroidCreateResourceFileDialog/0.0.1304.768@0.0.1304.768" timestamp="1610875884441" />
     <state x="505" y="214" key="AndroidCreateXmlResourceDialog" timestamp="1609642454893">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -250,22 +254,22 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="432" y="139" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1608190436990" />
-    <state width="1244" height="191" key="GridCell.Tab.0.bottom" timestamp="1608185550579">
+    <state width="1261" height="129" key="GridCell.Tab.0.bottom" timestamp="1610876257498">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1244" height="191" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
-    <state width="1244" height="191" key="GridCell.Tab.0.center" timestamp="1608185550579">
+    <state width="1261" height="129" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1610876257498" />
+    <state width="1261" height="129" key="GridCell.Tab.0.center" timestamp="1610876257498">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1244" height="191" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
-    <state width="1244" height="191" key="GridCell.Tab.0.left" timestamp="1608185550579">
+    <state width="1261" height="129" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1610876257498" />
+    <state width="1261" height="129" key="GridCell.Tab.0.left" timestamp="1610876257498">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1244" height="191" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
-    <state width="1244" height="191" key="GridCell.Tab.0.right" timestamp="1608185550579">
+    <state width="1261" height="129" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1610876257498" />
+    <state width="1261" height="129" key="GridCell.Tab.0.right" timestamp="1610876257498">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1244" height="191" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1608185550579" />
+    <state width="1261" height="129" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1610876257498" />
     <state x="153" y="26" key="SettingsEditor" timestamp="1603954639322">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -278,11 +282,10 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="92" y="92" width="1120" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1304.768@0.0.1304.768" timestamp="1602745113693" />
-    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1610255552456">
+    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1610875426821">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="418" y="208" key="com.intellij.ide.util.TipDialog/0.0.1304.768/1366.0.1280.680@0.0.1304.768" timestamp="1602070718342" />
-    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1610255552456" />
+    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1610875426821" />
     <state x="358" y="3" key="refactoring.ChangeSignatureDialog" timestamp="1605643652961">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
