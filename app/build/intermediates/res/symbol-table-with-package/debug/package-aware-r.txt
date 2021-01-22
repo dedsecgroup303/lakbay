@@ -1779,7 +1779,6 @@ id satellite
 id save_btn
 id save_non_transition_alpha
 id save_overlay_view
-id saves
 id scale
 id screen
 id scroll
@@ -1847,6 +1846,7 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter

@@ -13,6 +13,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -31,8 +32,9 @@ public class NewMemoryActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.new_memory_activity);
-        save = findViewById(R.id.saves);
+
         MM = findViewById(R.id.MM);
+
         this.selectedImageView = (ImageView) findViewById(R.id.new_memory_selected_image);
         this.titleEditText = (EditText) findViewById(R.id.new_memory_title);
 
@@ -96,7 +98,7 @@ public class NewMemoryActivity extends AppCompatActivity {
             Bundle extras = data.getExtras();
             Bitmap imageBitmap = (Bitmap) extras.get("data");
             selectedImageView.setImageBitmap(imageBitmap);
+
         }
     }
-
 }

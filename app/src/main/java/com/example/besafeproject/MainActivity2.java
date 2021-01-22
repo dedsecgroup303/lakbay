@@ -15,7 +15,7 @@ import android.widget.TextView;
 public class MainActivity2 extends AppCompatActivity implements SensorEventListener {
 
     ImageView img_compass;
-    TextView txt_azumuth, txtpos;
+    TextView  txtpos;
     int mAzimuth;
     private SensorManager mSensorManager;
     private Sensor mRotationV, mAccelerometer,mMagnetometer;
@@ -62,7 +62,9 @@ public class MainActivity2 extends AppCompatActivity implements SensorEventListe
         }
         mAzimuth = Math.round(mAzimuth);
         img_compass.setRotation(-mAzimuth);
+
         String where = "NO";
+
         if (mAzimuth >= 350 || mAzimuth <= 10)
             where = "N";
         if (mAzimuth < 350 && mAzimuth > 280)
@@ -80,7 +82,8 @@ public class MainActivity2 extends AppCompatActivity implements SensorEventListe
         if (mAzimuth <= 80 && mAzimuth > 10)
             where = "NE";
 
-        txt_azumuth.setText(mAzimuth+""+where);
+        txtpos.setText(mAzimuth+" "+where);
+
     }
 
 
