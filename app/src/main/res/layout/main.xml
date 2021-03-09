@@ -12,9 +12,8 @@
 
     <GridView
         android:id="@+id/activity_main_grid_view"
-        android:numColumns="auto_fit"
-        android:verticalSpacing="4dp"
-        android:gravity="center"
+        android:verticalSpacing="3dp"
+        android:gravity="left"
         android:horizontalSpacing="4dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

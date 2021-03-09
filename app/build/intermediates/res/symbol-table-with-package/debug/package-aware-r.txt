@@ -1642,6 +1642,7 @@ id dark
 id dateText
 id date_picker
 id date_picker_actions
+id dateme
 id decor_content_parent
 id default_activity_button
 id deleteTask
@@ -1710,6 +1711,7 @@ id listMode
 id list_item
 id list_item_image_view
 id list_item_text_view
+id list_item_text_viewer
 id map
 id masked
 id media_actions
@@ -1946,7 +1948,6 @@ layout activity_main
 layout activity_main2
 layout activity_mainmenu
 layout activity_maps
-layout activity_sensortest
 layout custom_dialog
 layout date_picker
 layout design_bottom_navigation_item

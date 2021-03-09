@@ -21,7 +21,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="New_Device_API_28" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RBU6R19424003670" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -70,7 +70,7 @@
     <property name="ToolWindowLogcat.ShowToolbar" value="false" />
     <property name="android.sdk.path" value="C:/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java" />
-    <property name="last_opened_file_path" value="D:/one drive/OneDrive/Desktop/New folder (2)/MyMemoriesDB" />
+    <property name="last_opened_file_path" value="D:/Users/BRIAN LOPEZ/ANDROID/SQLiteDemo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -85,16 +85,13 @@
     <key name="android.template.-1532393346">
       <recent name="com.example.besafeproject" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.besafeproject" />
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
     </key>
     <key name="android.template.976994070">
       <recent name="com.example.besafeproject" />
     </key>
     <key name="android.template.1647232549">
-      <recent name="com.example.besafeproject" />
-    </key>
-    <key name="android.template.295464290">
       <recent name="com.example.besafeproject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -111,13 +108,16 @@
     <key name="android.template.1792358785">
       <recent name="com.example.besafeproject" />
     </key>
+    <key name="android.template.-1416815135">
+      <recent name="com.example.besafeproject" />
+    </key>
     <key name="android.template.1665697021">
       <recent name="com.example.besafeproject" />
     </key>
-    <key name="android.template.parentActivityClass">
-      <recent name="" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.besafeproject" />
     </key>
-    <key name="android.template.-1416815135">
+    <key name="android.template.295464290">
       <recent name="com.example.besafeproject" />
     </key>
   </component>
@@ -192,52 +192,23 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="85" key="#Images" timestamp="1603352691759">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="105" y="85" key="#Images/0.0.1304.768@0.0.1304.768" timestamp="1603352691759" />
-    <state x="244" y="42" key="#Inspections" timestamp="1603969393506">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="244" y="42" key="#Inspections/0.0.1304.768@0.0.1304.768" timestamp="1603969393506" />
-    <state x="126" y="217" key="#PSD" timestamp="1606287595085">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="126" y="217" key="#PSD/0.0.1304.768@0.0.1304.768" timestamp="1606287595085" />
     <state x="371" y="29" key="#app" timestamp="1610314020973">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="371" y="29" key="#app/0.0.1304.768@0.0.1304.768" timestamp="1610314020973" />
-    <state x="457" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1606350800585">
+    <state x="457" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1615169363619">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="457" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1606350800585" />
-    <state x="448" y="243" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605074689274">
+    <state x="457" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1615169363619" />
+    <state x="448" y="243" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611902946533">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="448" y="243" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1304.768@0.0.1304.768" timestamp="1605074689274" />
+    <state x="448" y="243" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1304.768@0.0.1304.768" timestamp="1611902946533" />
     <state x="382" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611308801019">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="382" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1304.768@0.0.1304.768" timestamp="1611308801019" />
-    <state x="382" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605423592844">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="382" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1304.768@0.0.1304.768" timestamp="1605423592844" />
-    <state x="410" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603352701881">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="410" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1304.768@0.0.1304.768" timestamp="1603352701881" />
     <state x="159" y="79" key="AndroidCreateResourceDirectoryDialog" timestamp="1610774246813">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
@@ -250,49 +221,37 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="505" y="214" key="AndroidCreateXmlResourceDialog/0.0.1304.768@0.0.1304.768" timestamp="1609642454893" />
-    <state x="432" y="139" key="FileChooserDialogImpl" timestamp="1611306710902">
+    <state x="432" y="139" key="FileChooserDialogImpl" timestamp="1612004140362">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="432" y="139" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1611306710902" />
-    <state width="612" height="35" key="GridCell.Tab.0.bottom" timestamp="1611308199993">
+    <state x="432" y="139" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1612004140362" />
+    <state width="1261" height="396" key="GridCell.Tab.0.bottom" timestamp="1615272905598">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="612" height="35" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1611308199993" />
-    <state width="612" height="35" key="GridCell.Tab.0.center" timestamp="1611308199993">
+    <state width="1261" height="396" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1615272905598" />
+    <state width="1261" height="396" key="GridCell.Tab.0.center" timestamp="1615272905597">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="612" height="35" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1611308199993" />
-    <state width="612" height="35" key="GridCell.Tab.0.left" timestamp="1611308199993">
+    <state width="1261" height="396" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1615272905597" />
+    <state width="1261" height="396" key="GridCell.Tab.0.left" timestamp="1615272905596">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="612" height="35" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1611308199993" />
-    <state width="612" height="35" key="GridCell.Tab.0.right" timestamp="1611308199993">
+    <state width="1261" height="396" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1615272905596" />
+    <state width="1261" height="396" key="GridCell.Tab.0.right" timestamp="1615272905597">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="612" height="35" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1611308199993" />
+    <state width="1261" height="396" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1615272905597" />
     <state x="104" y="16" key="SettingsEditor" timestamp="1611308435973">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="104" y="16" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1611308435973" />
-    <state x="468" y="162" key="chooseDestDirectoryDialog" timestamp="1605071996256">
+    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1615272470278">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="468" y="162" key="chooseDestDirectoryDialog/0.0.1304.768@0.0.1304.768" timestamp="1605071996256" />
-    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1611900296179">
+    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1615272470278" />
+    <state x="394" y="3" key="refactoring.ChangeSignatureDialog" timestamp="1615169369590">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="397" y="209" width="537" height="352" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1611900296179" />
-    <state x="358" y="3" key="refactoring.ChangeSignatureDialog" timestamp="1605643652961">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="358" y="3" key="refactoring.ChangeSignatureDialog/0.0.1304.768@0.0.1304.768" timestamp="1605643652961" />
-    <state x="308" y="174" key="run.anything.popup" timestamp="1605074124991">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="308" y="174" key="run.anything.popup/0.0.1304.768@0.0.1304.768" timestamp="1605074124991" />
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1605400128692">
-      <screen x="0" y="0" width="1304" height="768" />
-    </state>
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1605400128692" />
+    <state x="394" y="3" key="refactoring.ChangeSignatureDialog/0.0.1304.768@0.0.1304.768" timestamp="1615169369590" />
   </component>
 </project>

@@ -19,12 +19,15 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 
 public class NewMemoryActivity extends AppCompatActivity {
     private static final int GALLERY_REQUEST_CODE = 100;
     private static final int CAMERA_REQUEST_CODE = 200;
     private ImageView selectedImageView;
-    private EditText titleEditText;
+    private EditText titleEditText, date;
     Button save;
     Button MM;
 
@@ -37,6 +40,7 @@ public class NewMemoryActivity extends AppCompatActivity {
 
         this.selectedImageView = (ImageView) findViewById(R.id.new_memory_selected_image);
         this.titleEditText = (EditText) findViewById(R.id.new_memory_title);
+        this.date = (EditText) findViewById(R.id.dateme);
 
         MM.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -74,7 +78,7 @@ public class NewMemoryActivity extends AppCompatActivity {
         } else {
 
             Bitmap image = ((BitmapDrawable) selectedImageView.getDrawable()).getBitmap();
-            new MemoryDbHelper(this).addMemory(new Memory(titleEditText.getText().toString(),image));
+            new MemoryDbHelper(this).addMemory(new Memory(titleEditText.getText().toString(),date.getText().toString(),image));
             save.setEnabled(true);
             finish();
         }

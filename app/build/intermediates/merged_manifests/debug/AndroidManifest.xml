@@ -34,6 +34,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/logoy"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
 
         <!--

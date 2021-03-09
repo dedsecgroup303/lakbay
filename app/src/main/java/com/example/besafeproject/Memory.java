@@ -13,19 +13,26 @@ public class Memory {
     private static final float PREFERRED_HEIGHT = 250;
     private String title;
     private String image;
+    private String date;
 
     public static final int COL_ID = 0;
     public static final int COL_TITLE = 1;
     public static final int COL_IMAGE = 2;
+    public static final int COL_DATE  = 3;
+
 
     public Memory(Cursor cursor) {
         this.title = cursor.getString(COL_TITLE);
         this.image = cursor.getString(COL_IMAGE);
+        this.date = cursor.getString(COL_DATE);
+
     }
 
-    public Memory(String title, Bitmap image) {
+    public Memory(String title,String date, Bitmap image) {
         this.title = title;
+        this.date = date;
         this.image = bitmapToString(resizeBitmap(image));
+
     }
 
     public String getTitle() {
@@ -38,6 +45,10 @@ public class Memory {
 
     public String getImageAsString() {
         return this.image;
+    }
+
+    public String getDate(){
+        return this.date;
     }
 
     private static String bitmapToString(Bitmap bitmap) {

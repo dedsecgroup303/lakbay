@@ -30,15 +30,18 @@ public class MemoriesAdapter extends CursorAdapter {
 
         holder.titleTextView.setText(memory.getTitle());
         holder.imageView.setImageBitmap(memory.getImage());
+        holder.textView.setText(memory.getDate());
     }
 
     private class ViewHolder {
         final ImageView imageView;
         final TextView titleTextView;
+        final TextView textView;
 
         ViewHolder(View view) {
             imageView = view.findViewById(R.id.list_item_image_view);
             titleTextView = view.findViewById(R.id.list_item_text_view);
+            textView =  view.findViewById(R.id.list_item_text_viewer);
         }
     }
 }

@@ -19,7 +19,8 @@ public class MemoryDbHelper extends SQLiteOpenHelper {
           "CREATE TABLE " + MemoryContract.MemoryEntry.TABLE_NAME + " (" +
                   MemoryContract.MemoryEntry._ID + INTEGER_TYPE + " PRIMARY KEY" + COMMA_SEP +
                   MemoryContract.MemoryEntry.COLUMN_TITLE + TEXT_TYPE + COMMA_SEP +
-                  MemoryContract.MemoryEntry.COLUMN_IMAGE + TEXT_TYPE + " )";
+                  MemoryContract.MemoryEntry.COLUMN_IMAGE + TEXT_TYPE + COMMA_SEP +
+                  MemoryContract.MemoryEntry.COLUMN_DATE + TEXT_TYPE + " )";
 
   public MemoryDbHelper(Context context) {
     super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -55,7 +56,7 @@ public class MemoryDbHelper extends SQLiteOpenHelper {
     ContentValues values = new ContentValues();
     values.put(MemoryContract.MemoryEntry.COLUMN_TITLE, memory.getTitle());
     values.put(MemoryContract.MemoryEntry.COLUMN_IMAGE, memory.getImageAsString());
-
+    values.put(MemoryContract.MemoryEntry.COLUMN_DATE, memory.getDate());
     return db.insert(MemoryContract.MemoryEntry.TABLE_NAME, null, values) != -1;
   }
 
