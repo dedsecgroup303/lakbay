@@ -26,7 +26,7 @@
         android:layout_width="299dp"
         android:layout_height="58dp"
         android:background="@drawable/radius_border_button"
-        android:hint="@string/new_memory_title_hint"
+        android:hint="DD/MM/YY"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
@@ -39,23 +39,16 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.628" />
 
+
     <EditText
+        android:id="@+id/new_memory_titles"
         android:layout_width="299dp"
         android:layout_height="58dp"
-        android:background="@drawable/radius_border_button"
-        android:id="@+id/dateme"
-        android:hint="Add Date"
-        android:inputType="date"
-        android:textAlignment="center"
-        android:textColor="@color/white"
-        android:textColorHint="@color/white"
-        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.544"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.726" />
+        app:layout_constraintVertical_bias="0.734" />
 
     <Button
         android:id="@+id/button2"

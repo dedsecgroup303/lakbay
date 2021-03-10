@@ -1642,7 +1642,6 @@ id dark
 id dateText
 id date_picker
 id date_picker_actions
-id dateme
 id decor_content_parent
 id default_activity_button
 id deleteTask
@@ -1751,6 +1750,7 @@ id never
 id new_memory_cancel
 id new_memory_selected_image
 id new_memory_title
+id new_memory_titles
 id noScroll
 id none
 id normal
